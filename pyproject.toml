@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "Social Media Data Analysis"
+version = "0.1.0"
+description = "Social media data crawling, prompt engineering and exploratory analysis"
+authors = ["Saurabh Zinjad <zinjadsaurabh1997@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mastodon-py = "^1.8.1"
+networkx = {extras = ["default"], version = "^3.1"}
+matplotlib = "^3.8.0"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.25.2"
+black = "^23.9.1"
+pep8 = "^1.7.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

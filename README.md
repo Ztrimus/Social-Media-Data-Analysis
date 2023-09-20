@@ -17,7 +17,17 @@ Through this project, you will develop skills in social media data crawling, how
 ## Get Started
 1. First, Go thorugh ["Project 1 - Social Media Data Analysis"](./Project%201%20-%20Social%20Media%20Data%20Analysis.pdf) pdf.
 2. Obtaining Mastodon API credentials, as per mentioned in pdf.
-3. Get access of Llama2-7B model as per mentioned in pdf
+3. Create `local_config.py` file and add Client Id, Secret and access token init.
+    ```python
+    MASTODON_SOCIAL_ID = "add your MASTODON_SOCIAL_ID here"
+    MASTODON_SOCIAL_SECRET = "add your MASTODON_SOCIAL_SECRET here"
+    MASTODON_SOCIAL_TOKEN = "add your MASTODON_SOCIAL_TOKEN here"
+    ```
+4. Get access of Llama2-7B model as per mentioned in pdf
+
+## Resources 
+- https://mastodonpy.readthedocs.io/en/1.8.1/
+
 
 ## Bugs :
 

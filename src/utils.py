@@ -93,8 +93,6 @@ def get_required_properties(account: dict):
 
     # TODO: more parameter to consider
     # featured Hashtags
-    # follower
-    # followee
     # AI related posts only
     # reboosted post
     try:

@@ -1,0 +1,2174 @@
+[
+    {
+        "id": 109288539216246486,
+        "username": "Riedl",
+        "display_name": "Mark Riedl",
+        "note": "<p>AI for storytelling, games, explainability, safety, ethics. Professor at Georgia Tech. Associate Director of the Machine Learning Center at GT. Time travel expert. Geek. Dad. he/him</p>",
+        "followers_count": 7929,
+        "following_count": 437,
+        "followers": [
+            110683138029388912,
+            110766811677899168
+        ],
+        "followings": [],
+        "statuses_count": 2726,
+        "created_at": "2022-11-05 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "Riedl@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@Riedl"
+    },
+    {
+        "id": 109207667010852890,
+        "username": "mmitchell_ai",
+        "display_name": "mmitchell_ai",
+        "note": "<p>Interdisciplinary researcher focused on shaping AI towards long-term positive goals. Focusing on ML and ethics. <br />Opinions mine. =)</p>",
+        "followers_count": 7020,
+        "following_count": 137,
+        "followers": [
+            109306350244299713
+        ],
+        "followings": [],
+        "statuses_count": 747,
+        "created_at": "2022-10-21 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "mmitchell_ai",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@mmitchell_ai"
+    },
+    {
+        "id": 109258148192820344,
+        "username": "MattHodges",
+        "display_name": "Matt Hodges",
+        "note": "<p>Working to elect Democrats | Executive Director of Zinc Labs | Was Joe Biden&#39;s Director of Engineering | Built a lot of tech for Hillary Clinton | Rumored to have done a bunch of other computer things | My bot <span class=\"h-card\" translate=\"no\"><a href=\"https://botsin.space/@everyDotGov\" class=\"u-url mention\">@<span>everyDotGov</span></a></span> | Austin, TX</p>",
+        "followers_count": 4292,
+        "following_count": 271,
+        "followers": [
+            109246365513891734
+        ],
+        "followings": [],
+        "statuses_count": 1989,
+        "created_at": "2022-10-30 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "MattHodges",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@MattHodges"
+    },
+    {
+        "id": 42693,
+        "username": "kcarruthers",
+        "display_name": "kcarruthers",
+        "note": "<p>sometimes I feel like being a revolutionary cat 😷🌻💙💛<br />currently working at the intersection of data analytics, AI, ML, privacy, data protection, cyber and information security<br />wide-ranging interests include ethics, history, anthropology, science tootfindertfrsearchable</p>",
+        "followers_count": 4282,
+        "following_count": 4951,
+        "followers": [],
+        "followings": [
+            109406342016073411
+        ],
+        "statuses_count": 18202,
+        "created_at": "2017-04-04 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "kcarruthers",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@kcarruthers"
+    },
+    {
+        "id": 109310786303722957,
+        "username": "deonandan",
+        "display_name": "Raywat Deonandan",
+        "note": "<p>-Dr Raywat Deonandan: Epidemiologist &amp; Associate Professor, Interdisciplinary School of Health Sciences, LIFE Research Institute, Centre for Health Law Policy &amp; Ethics, University of Ottawa.<br>-Senior Fellow, Massey College, University of Toronto. <br>-Research Chair in University Teaching (focus on applications of AI.)<br>-Good hair. <br>-Teller of stupid jokes. <br>-Servant of small child, smaller poodle, and unimpressed spouse.<br>-Scourge of the ignorant.</p>",
+        "followers_count": 2171,
+        "following_count": 22,
+        "followers": [
+            109243295678325961
+        ],
+        "followings": [],
+        "statuses_count": 2553,
+        "created_at": "2022-11-07 00:00:00",
+        "last_status_at": "2023-08-25 00:00:00",
+        "acct": "deonandan@c.im",
+        "bot": false,
+        "group": false,
+        "url": "https://c.im/@deonandan"
+    },
+    {
+        "id": 7298,
+        "username": "dweinberger",
+        "display_name": "David Weinberger",
+        "note": "<p>I write about the way digital tech - especially <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> these days - may be changing our ideas about ourselves and our world.  <a href=\"https://mastodon.social/tags/GrandKids\" class=\"mention hashtag\" rel=\"tag\">#<span>GrandKids</span></a>  <a href=\"https://mastodon.social/tags/Philosophy\" class=\"mention hashtag\" rel=\"tag\">#<span>Philosophy</span></a>  <a href=\"https://mastodon.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"tag\">#<span>MachineLearning</span></a> <a href=\"https://mastodon.social/tags/Internet\" class=\"mention hashtag\" rel=\"tag\">#<span>Internet</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/LeftyBoomer\" class=\"mention hashtag\" rel=\"tag\">#<span>LeftyBoomer</span></a> <a href=\"https://mastodon.social/tags/Ethics\" class=\"mention hashtag\" rel=\"tag\">#<span>Ethics</span></a> <a href=\"https://mastodon.social/tags/EthicsOfCare\" class=\"mention hashtag\" rel=\"tag\">#<span>EthicsOfCare</span></a> <a href=\"https://mastodon.social/tags/Cluetrain\" class=\"mention hashtag\" rel=\"tag\">#<span>Cluetrain</span></a> <a href=\"https://mastodon.social/tags/BKC\" class=\"mention hashtag\" rel=\"tag\">#<span>BKC</span></a> <a href=\"https://mastodon.social/tags/Internet\" class=\"mention hashtag\" rel=\"tag\">#<span>Internet</span></a> <a href=\"https://mastodon.social/tags/Web\" class=\"mention hashtag\" rel=\"tag\">#<span>Web</span></a> <a href=\"https://mastodon.social/tags/peace\" class=\"mention hashtag\" rel=\"tag\">#<span>peace</span></a>.<a href=\"https://www.weinberger.org/writings/index.html\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">weinberger.org/writings/index.</span><span class=\"invisible\">html</span></a> 40% yogurt by volume.</p>",
+        "followers_count": 2059,
+        "following_count": 1430,
+        "followers": [],
+        "followings": [
+            109349394367481729,
+            109837546587358876
+        ],
+        "statuses_count": 461,
+        "created_at": "2016-11-01 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "dweinberger",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@dweinberger"
+    },
+    {
+        "id": 109256655744212204,
+        "username": "alaric",
+        "display_name": "Alaric Aloor🐕🏎⚽️🥃",
+        "note": "<p>CEO @archonsec 🔐Security ☁️ Cloud ▪️Privacy ▪️AI Ethics ▪️Diversity ▪️Inclusion ▪️ 🏎F1 ▪️⚽️ Football ▪️🥃 Scotch ▪️Eschew Obfuscation </p><p><a href=\"https://keybase.io/alaricaloor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">keybase.io/alaricaloor</span><span class=\"invisible\"></span></a></p><p>Moderator on ioc.exchange <a href=\"https://ioc.exchange/tags/iocx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>iocx</span></a></p><p>Most of my toots are bad and are my boss’s fault.</p><p><a href=\"https://ioc.exchange/tags/nobot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nobot</span></a> <a href=\"https://ioc.exchange/tags/noindex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>noindex</span></a></p>",
+        "followers_count": 2028,
+        "following_count": 542,
+        "followers": [
+            982771
+        ],
+        "followings": [],
+        "statuses_count": 706,
+        "created_at": "2022-10-30 00:00:00",
+        "last_status_at": "2023-04-08 00:00:00",
+        "acct": "alaric@ioc.exchange",
+        "bot": false,
+        "group": false,
+        "url": "https://ioc.exchange/@alaric"
+    },
+    {
+        "id": 40435,
+        "username": "Wikisteff",
+        "display_name": "Steffen Christensen",
+        "note": "<p>Ph.D. in AI. Senior Policy Researcher, Horizons. Coder, numbers whiz, foresight expert. Sworn to use Evil powers only for Good.</p>",
+        "followers_count": 1868,
+        "following_count": 1098,
+        "followers": [],
+        "followings": [
+            109308567416657443
+        ],
+        "statuses_count": 3952,
+        "created_at": "2017-04-04 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "Wikisteff",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@Wikisteff"
+    },
+    {
+        "id": 109654694731556080,
+        "username": "axbom",
+        "display_name": "Per Axbom",
+        "note": "Swedish communication theorist born in Liberia. Writing, speaking, teaching, podcasting and consulting for a more safe and compassionate Internet.<br><br>My posts are mostly in English, and sometimes in Swedish.<br><br>Active within <a class=\"hashtag\" href=\"https://axbom.me/tag/digitalethics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DigitalEthics</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/aiethics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AiEthics</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/inclusivedesign\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#InclusiveDesign</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/accessibility\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Accessibility</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/uxdesign\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#UXDesign</a><br><a class=\"hashtag\" href=\"https://axbom.me/tag/visualexplainers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#VisualExplainers</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/mindmapping\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Mindmapping</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/responsibleinnovation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ResponsibleInnovation</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/humanrights\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#HumanRights</a> <a class=\"hashtag\" href=\"https://axbom.me/tag/sustainableweb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#SustainableWeb</a><br><br>My first computer was a Sinclair ZX81.<br>My Fediverse platform is Akkoma.<br>My dog is a French bulldog.<br><br>Try to get paid for my work but I put most of it out there for free 😅<br><br>This is my 4th Fediverse account. My posts are licensed under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise specified.<br><br><a class=\"hashtag\" href=\"https://axbom.me/tag/fedi22\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#fedi22</a> tfr",
+        "followers_count": 1824,
+        "following_count": 578,
+        "followers": [],
+        "followings": [
+            109207599306718945
+        ],
+        "statuses_count": 1054,
+        "created_at": "2023-01-08 00:00:00",
+        "last_status_at": "2023-09-19 00:00:00",
+        "acct": "axbom@axbom.me",
+        "bot": false,
+        "group": false,
+        "url": "https://axbom.me/users/axbom"
+    },
+    {
+        "id": 109316369882344381,
+        "username": "AirmindedAI",
+        "display_name": "Airminded AI",
+        "note": "<p>Experiments in <a href=\"https://sigmoid.social/tags/AIArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIArt</span></a>, mainly cross-posted from Twitter. May contain airships. Non-commercial, no NFTs. See also <span class=\"h-card\"><a href=\"https://sigmoid.social/@TTAships\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TTAships</span></a></span>. Owner: <span class=\"h-card\"><a href=\"https://hcommons.social/@Airminded\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Airminded</span></a></span> <a href=\"https://sigmoid.social/tags/midjourney\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>midjourney</span></a> <a href=\"https://sigmoid.social/tags/StableDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StableDiffusion</span></a></p>",
+        "followers_count": 1378,
+        "following_count": 24,
+        "followers": [
+            128967
+        ],
+        "followings": [],
+        "statuses_count": 2026,
+        "created_at": "2022-11-09 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "AirmindedAI@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@AirmindedAI"
+    },
+    {
+        "id": 109422215427838356,
+        "username": "allafarce",
+        "display_name": "Dave Guarino",
+        "note": "<p>Pursuing the public good, sometimes with technology. Software dev, dash of policy. Ex<br>@codeforamerica<br>(started <a href=\"http://GetCalFresh.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">GetCalFresh.org</span><span class=\"invisible\"></span></a>) &amp;<br>@CaliforniaODI. Personal account! Figuring this thing out! <a href=\"https://hachyderm.io/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> <a href=\"https://hachyderm.io/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://hachyderm.io/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a> <a href=\"https://hachyderm.io/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://hachyderm.io/tags/llms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>llms</span></a> <a href=\"https://hachyderm.io/tags/government\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>government</span></a> <a href=\"https://hachyderm.io/tags/civictech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>civictech</span></a> <a href=\"https://hachyderm.io/tags/ferries\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ferries</span></a> <a href=\"https://hachyderm.io/tags/sanfrancisco\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sanfrancisco</span></a></p>",
+        "followers_count": 1360,
+        "following_count": 471,
+        "followers": [
+            39894
+        ],
+        "followings": [],
+        "statuses_count": 1332,
+        "created_at": "2022-11-28 00:00:00",
+        "last_status_at": "2023-09-19 00:00:00",
+        "acct": "allafarce@hachyderm.io",
+        "bot": false,
+        "group": false,
+        "url": "https://hachyderm.io/@allafarce"
+    },
+    {
+        "id": 109282347509299015,
+        "username": "dylan",
+        "display_name": "dylan",
+        "note": "<p>Research Engineer at DAIR, prev. Ethical AI SWE @ Google, they/he</p><p>resident admin, along with <span class=\"h-card\"><a href=\"https://dair-community.social/@timnitGebru\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timnitGebru</span></a></span> and <span class=\"h-card\"><a href=\"https://dair-community.social/@alex\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alex</span></a></span></p>",
+        "followers_count": 1253,
+        "following_count": 432,
+        "followers": [
+            109243295678325961
+        ],
+        "followings": [],
+        "statuses_count": 84,
+        "created_at": "2022-11-02 00:00:00",
+        "last_status_at": "2023-05-30 00:00:00",
+        "acct": "dylan@dair-community.social",
+        "bot": false,
+        "group": false,
+        "url": "https://dair-community.social/@dylan"
+    },
+    {
+        "id": 109472611508264434,
+        "username": "mmin",
+        "display_name": "Matti Minkkinen",
+        "note": "<p>Postdoctoral researcher interested in <a href=\"https://assemblag.es/tags/responsibleAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>responsibleAI</span></a>, futures of <a href=\"https://assemblag.es/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a>, <a href=\"https://assemblag.es/tags/foresight\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foresight</span></a>, <a href=\"https://assemblag.es/tags/scenarios\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scenarios</span></a>, <a href=\"https://assemblag.es/tags/sociology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sociology</span></a>, and <a href=\"https://assemblag.es/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a>.</p><p>Also <a href=\"https://assemblag.es/tags/music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>music</span></a>.</p><p>Posts auto-deleted after three months.</p><p>---</p><p>Tutkija, isä, tamperelainen Turussa. Kiinnostunut mm. uusien teknologioiden vaikutuksista ja siitä, miten opimme elämään niiden kanssa.</p>",
+        "followers_count": 1213,
+        "following_count": 963,
+        "followers": [],
+        "followings": [
+            109208640580649385,
+            108140462489609682,
+            109207599306718945
+        ],
+        "statuses_count": 612,
+        "created_at": "2022-12-06 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "mmin@assemblag.es",
+        "bot": false,
+        "group": false,
+        "url": "https://assemblag.es/@mmin"
+    },
+    {
+        "id": 109352646734786487,
+        "username": "keithwilson",
+        "display_name": "Keith Wilson",
+        "note": "<p><a href=\"https://fediphilosophy.org/tags/Philosopher\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Philosopher</span></a> of <a href=\"https://fediphilosophy.org/tags/Mind\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mind</span></a> and <a href=\"https://fediphilosophy.org/tags/Perception\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Perception</span></a> at <a href=\"https://fediphilosophy.org/tags/UniversityCollegeDublin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UniversityCollegeDublin</span></a> researching <a href=\"https://fediphilosophy.org/tags/MultisensoryPerception\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MultisensoryPerception</span></a> and <a href=\"https://fediphilosophy.org/tags/TemporalExperience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TemporalExperience</span></a>. Former software developer and sound engineer. Father of a not-so-<a href=\"https://fediphilosophy.org/tags/LittleHuman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LittleHuman</span></a>. Mostly <a href=\"https://fediphilosophy.org/tags/vegan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vegan</span></a>.</p><p>Toots about <a href=\"https://fediphilosophy.org/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a>, <a href=\"https://fediphilosophy.org/tags/politics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>politics</span></a>, <a href=\"https://fediphilosophy.org/tags/academia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>academia</span></a>, <a href=\"https://fediphilosophy.org/tags/technology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>technology</span></a>, <a href=\"https://fediphilosophy.org/tags/time\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>time</span></a> and <a href=\"https://fediphilosophy.org/tags/theSenses\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>theSenses</span></a>. Born at 326&nbsp;ppm. Here to learn and explore. 🏳️‍🌈🇺🇦 <a href=\"https://fediphilosophy.org/tags/fedi22\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedi22</span></a> <a href=\"https://fediphilosophy.org/tags/searchable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>searchable</span></a></p>",
+        "followers_count": 1190,
+        "following_count": 643,
+        "followers": [
+            107597805536855223
+        ],
+        "followings": [],
+        "statuses_count": 3169,
+        "created_at": "2022-11-14 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "keithwilson@fediphilosophy.org",
+        "bot": false,
+        "group": false,
+        "url": "https://fediphilosophy.org/@keithwilson"
+    },
+    {
+        "id": 109244332431164585,
+        "username": "ilyaz",
+        "display_name": "Ilyaz Nasrullah",
+        "note": "<p>Tech columnist @ Dutch newspaper Trouw, where I write critically about the impact of digital technology on society. </p><p>I like to talk about: <br />— Tech (in general, AI/ML + ethics in particular)<br />— Digital society<br />— Climate<br />— Video games<br />— Taiwan<br />— Tea<br />— Politics (mostly satire) </p><p> language: NL+EN | 🇳🇱🇹🇼</p>",
+        "followers_count": 1161,
+        "following_count": 300,
+        "followers": [],
+        "followings": [
+            109253383834760376
+        ],
+        "statuses_count": 86,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-14 00:00:00",
+        "acct": "ilyaz",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@ilyaz"
+    },
+    {
+        "id": 108225684829323574,
+        "username": "j2bryson",
+        "display_name": "Joanna Bryson, blathering",
+        "note": "<p>Still tweeting too <a href=\"https://twitter.com/j2bryson\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/j2bryson</span><span class=\"invisible\"></span></a>, Twitter is essential comms for a lot of the world  e.g. activists in the developing world now, future historians…  But increasingly here, on <a href=\"https://www.linkedin.com/in/bryson/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/bryson/</span><span class=\"invisible\"></span></a> (barf!), and reading physical books.</p>",
+        "followers_count": 1029,
+        "following_count": 225,
+        "followers": [
+            110683138029388912,
+            109243295678325961,
+            109298291758970865
+        ],
+        "followings": [
+            110683138029388912,
+            109411528466513272,
+            108191699650446781
+        ],
+        "statuses_count": 2118,
+        "created_at": "2022-05-01 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "j2bryson",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@j2bryson"
+    },
+    {
+        "id": 109339302446522513,
+        "username": "bibliotecaria",
+        "display_name": "Wanda Whitney",
+        "note": "<p>bibliotecaria/librarian with subject areas in medical/health, knowledge management, history, and genealogy.</p><p>Profile pic: Picture of me seated in my office. Short natural haircut wearing navy blue blazer and blue and white striped sweater. Cool eyeglasses!</p>",
+        "followers_count": 1022,
+        "following_count": 475,
+        "followers": [
+            982771,
+            39894,
+            452687
+        ],
+        "followings": [],
+        "statuses_count": 926,
+        "created_at": "2022-11-14 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "bibliotecaria@blacktwitter.io",
+        "bot": false,
+        "group": false,
+        "url": "https://blacktwitter.io/@bibliotecaria"
+    },
+    {
+        "id": 109248614317108614,
+        "username": "kdpsingh",
+        "display_name": "Karandeep Singh",
+        "note": "<p>Asst Prof of Learning Health Sciences, Internal Medicine, Urology, and Information at the University of Michigan. ACMIO for AI at Michigan Medicine.Via UCLA IM, BWH/MGH Neph, Harvard DBMI<a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"tag\">#<span>RStats</span></a>. <a href=\"https://mastodon.social/tags/JuliaLang\" class=\"mention hashtag\" rel=\"tag\">#<span>JuliaLang</span></a>. Views own.</p>",
+        "followers_count": 996,
+        "following_count": 395,
+        "followers": [],
+        "followings": [
+            109387717021617090,
+            109299953063331863
+        ],
+        "statuses_count": 882,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-04 00:00:00",
+        "acct": "kdpsingh",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@kdpsingh"
+    },
+    {
+        "id": 452687,
+        "username": "dahukanna",
+        "display_name": "Dawn Ahukanna",
+        "note": "<p>Software Alchemist - Turning base code into precious applications. Devsigner == &#39;Dev&#39;eloper + De&#39;signer&#39;. Married to <span class=\"h-card\" translate=\"no\"><a href=\"https://mstdn.social/@Anni\" class=\"u-url mention\">@<span>Anni</span></a></span> ❤️ 🏳️‍🌈. Pronouns == she/her.</p>",
+        "followers_count": 981,
+        "following_count": 586,
+        "followers": [],
+        "followings": [
+            109339302446522513,
+            108430374204746075,
+            110261879366449996
+        ],
+        "statuses_count": 3938,
+        "created_at": "2018-08-17 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "dahukanna",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@dahukanna"
+    },
+    {
+        "id": 110103218157729413,
+        "username": "octopusproject",
+        "display_name": "Real Octopus",
+        "note": "<p>It is me, the real octopus. Having a good time in fedi.</p><p>Looking good. Feeling good... Smelling good.</p><p>Not fishy!</p><p>Dont blame me for waves</p><p> I have no malicious intentions. img @ AI</p><p>Quote of the month:<br />request: start by throwing away your iPhone in protest and canceling Netflix. Later, we can talk while snacking on ethically produced hummus about how to stop AI and save Sarah Connor.<br /><a href=\"https://mastodon.social/@octopusproject/110152018292096128\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@octopusprojec</span><span class=\"invisible\">t/110152018292096128</span></a></p>",
+        "followers_count": 941,
+        "following_count": 7453,
+        "followers": [],
+        "followings": [
+            109852092615532345,
+            109297398294771412
+        ],
+        "statuses_count": 144,
+        "created_at": "2023-03-28 00:00:00",
+        "last_status_at": "2023-09-18 00:00:00",
+        "acct": "octopusproject",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@octopusproject"
+    },
+    {
+        "id": 109241297218361083,
+        "username": "hackylawyer",
+        "display_name": "Elizabeth Renieris",
+        "note": "<p>Author, BEYOND DATA (MIT Press &#39;23) / Sr Researcher @ Oxford Institute for Ethics in AI / Responsible AI @ MIT Sloan Management Review / Stanford @DigCivSoc / Former fellow @ Harvard CarrCenter &amp; Berkman Klein Center / CEO <br /><span class=\"h-card\" translate=\"no\"><a href=\"https://mastodon.social/@hackylawyer\" class=\"u-url mention\">@<span>hackylawyer</span></a></span></p>",
+        "followers_count": 878,
+        "following_count": 5,
+        "followers": [
+            109293576053916427
+        ],
+        "followings": [],
+        "statuses_count": 11,
+        "created_at": "2022-10-27 00:00:00",
+        "last_status_at": "2023-02-11 00:00:00",
+        "acct": "hackylawyer",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@hackylawyer"
+    },
+    {
+        "id": 109242494137478793,
+        "username": "ShannonVallor",
+        "display_name": "Shannon Vallor",
+        "note": "<p>Baillie Gifford Professor of AI and Data Ethics at the University of Edinburgh, Turing Fellow, Director of Centre for Technomoral Futures at the Edinburgh Futures Institute. Philosopher/ethicist; author of Technology and the Virtues: A Future Worth Wanting</p>",
+        "followers_count": 870,
+        "following_count": 188,
+        "followers": [
+            110766811677899168,
+            109406342016073411,
+            109293576053916427,
+            109473643389290807,
+            109268837176825401
+        ],
+        "followings": [
+            109256047123017729,
+            109433176222763295,
+            109349326032334825,
+            108191699650446781,
+            109411528466513272,
+            109320504378979581,
+            109296598505676703
+        ],
+        "statuses_count": 41,
+        "created_at": "2022-10-27 00:00:00",
+        "last_status_at": "2023-01-25 00:00:00",
+        "acct": "ShannonVallor",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@ShannonVallor"
+    },
+    {
+        "id": 108575628787827997,
+        "username": "hobs",
+        "display_name": "Hobson Lane",
+        "note": "<p>FOSS and prosocial AI fanatic.</p><p>Trying to build AI (virtual assistants) that trully assist rather than manipulate us.</p><p>Aspire to practical utilitarianism - greatest good for the greatest number for the longest possible amount of time.</p><p>Disillusioned by longtermism -- billionaires and their academic cronies focus on legacy, or feel good projects, or imagined future suffering. Those with privilege and power must acknowledge their uncertainty and support those in need **now**.</p><p>tfr</p>",
+        "followers_count": 864,
+        "following_count": 3106,
+        "followers": [
+            982771
+        ],
+        "followings": [],
+        "statuses_count": 2766,
+        "created_at": "2022-07-02 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "hobs@mstdn.social",
+        "bot": false,
+        "group": false,
+        "url": "https://mstdn.social/@hobs"
+    },
+    {
+        "id": 109297398294771412,
+        "username": "kwerb",
+        "display_name": "Kevin Werbach",
+        "note": "<p>Wharton professor &amp; chair of Legal Studies and Business Ethics. Interested in tech policy, blockchain &amp; digital assets, gamification, digital China, and AI ethics. Husband-guy, dad, herder of 4 cats, pescatarian cook, sometimes gamer, and Philadelphia Eagles fan. I believe in Spinoza&#39;s God. </p><p>Follow my blog: @blog@werblog</p><p>Author of The Blockchain and the New Architecture of Trust (<a href=\"https://amzn.to/2MwcYCu\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">amzn.to/2MwcYCu</span><span class=\"invisible\"></span></a>); academic director of Wharton&#39;s Web3 online programs (<a href=\"https://web3.wharton.upenn.edu\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">web3.wharton.upenn.edu</span><span class=\"invisible\"></span></a>).</p>",
+        "followers_count": 845,
+        "following_count": 361,
+        "followers": [
+            109268837176825401,
+            110103218157729413
+        ],
+        "followings": [
+            109268837176825401,
+            109388981490479396,
+            109360246146275070
+        ],
+        "statuses_count": 344,
+        "created_at": "2022-11-06 00:00:00",
+        "last_status_at": "2023-08-28 00:00:00",
+        "acct": "kwerb",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@kwerb"
+    },
+    {
+        "id": 109280935474675728,
+        "username": "upol",
+        "display_name": "Upol Ehsan",
+        "note": "<p>🎯 Making AI systems explainable &amp; responsible so that people not at the table do not end up on the menu. </p><p>🛠️ HCI + AI + Philosophy to craft Human-centered Explainable AI (HCXAI).</p><p>💼 Georgia Tech, Data &amp; Society | ex- {Google, IBM Research, Microsoft Research}</p><p>☕ Bubble Tea Connoisseur, Manchester United fan</p><p><a href=\"https://hci.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://hci.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://hci.social/tags/eXplainableAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>eXplainableAI</span></a> <a href=\"https://hci.social/tags/XAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>XAI</span></a> <a href=\"https://hci.social/tags/ResponsibleAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ResponsibleAI</span></a> <a href=\"https://hci.social/tags/AIEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIEthics</span></a> <a href=\"https://hci.social/tags/HCI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HCI</span></a> <a href=\"https://hci.social/tags/HumanCenteredDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanCenteredDesign</span></a> <a href=\"https://hci.social/tags/HumanCenteredExplainableAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanCenteredExplainableAI</span></a> <a href=\"https://hci.social/tags/HCXAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HCXAI</span></a> <a href=\"https://hci.social/tags/UX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UX</span></a></p>",
+        "followers_count": 820,
+        "following_count": 80,
+        "followers": [
+            304979,
+            39894
+        ],
+        "followings": [
+            108194282025075046
+        ],
+        "statuses_count": 884,
+        "created_at": "2022-11-02 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "upol@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@upol"
+    },
+    {
+        "id": 108197838129496380,
+        "username": "podehaye",
+        "display_name": "Paul-Olivier Dehaye",
+        "note": "<p>Founder PersonalData.IO, Hestia{Labs,.ai}, polytropon thinking about maths, data, science, ethics, collective intelligence and cognition.</p>",
+        "followers_count": 819,
+        "following_count": 92,
+        "followers": [
+            16496,
+            109244351160611036
+        ],
+        "followings": [],
+        "statuses_count": 14,
+        "created_at": "2022-04-26 00:00:00",
+        "last_status_at": "2022-12-17 00:00:00",
+        "acct": "podehaye@mathstodon.xyz",
+        "bot": false,
+        "group": false,
+        "url": "https://mathstodon.xyz/@podehaye"
+    },
+    {
+        "id": 109244351160611036,
+        "username": "re_vbrakel",
+        "display_name": "rosamunde van brakel",
+        "note": "<p>Research Professor @Vrije Universiteit Brussel coordination VUB Research Chair in Surveillance Studies @survstudiesteaches on legal, ethical and social issues of <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> @VUBco-director @Surveillance Studies Network <a href=\"https://www.surveillance-studies.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">surveillance-studies.net</span><span class=\"invisible\"></span></a>Background in <a href=\"https://mastodon.social/tags/EducationalSciences\" class=\"mention hashtag\" rel=\"tag\">#<span>EducationalSciences</span></a> and <a href=\"https://mastodon.social/tags/Criminology\" class=\"mention hashtag\" rel=\"tag\">#<span>Criminology</span></a>Interested in governance, histories and everyday practices of <a href=\"https://mastodon.social/tags/Surveillance\" class=\"mention hashtag\" rel=\"tag\">#<span>Surveillance</span></a>, <a href=\"https://mastodon.social/tags/Profiling\" class=\"mention hashtag\" rel=\"tag\">#<span>Profiling</span></a> &amp; <a href=\"https://mastodon.social/tags/CriminalJustice\" class=\"mention hashtag\" rel=\"tag\">#<span>CriminalJustice</span></a><a href=\"https://mastodon.social/tags/DigitalCriminology\" class=\"mention hashtag\" rel=\"tag\">#<span>DigitalCriminology</span></a> <a href=\"https://mastodon.social/tags/DigitalSociology\" class=\"mention hashtag\" rel=\"tag\">#<span>DigitalSociology</span></a>Mother of 2 boysFan of <a href=\"https://mastodon.social/tags/Deleuze\" class=\"mention hashtag\" rel=\"tag\">#<span>Deleuze</span></a> <a href=\"https://mastodon.social/tags/Mogwai\" class=\"mention hashtag\" rel=\"tag\">#<span>Mogwai</span></a> <a href=\"https://mastodon.social/tags/cats\" class=\"mention hashtag\" rel=\"tag\">#<span>cats</span></a> </p>",
+        "followers_count": 797,
+        "following_count": 535,
+        "followers": [
+            109963983168183181
+        ],
+        "followings": [
+            108197838129496380,
+            109963983168183181
+        ],
+        "statuses_count": 310,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "re_vbrakel",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@re_vbrakel"
+    },
+    {
+        "id": 109364009569913332,
+        "username": "FORRT",
+        "display_name": "FORRT",
+        "note": "<p>Integrating principles of open and reproducible scholarship into higher education and raising awareness of its pedagogical implications.</p>",
+        "followers_count": 775,
+        "following_count": 12,
+        "followers": [
+            109298291758970865
+        ],
+        "followings": [],
+        "statuses_count": 41,
+        "created_at": "2022-11-18 00:00:00",
+        "last_status_at": "2023-09-15 00:00:00",
+        "acct": "FORRT",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@FORRT"
+    },
+    {
+        "id": 109268837176825401,
+        "username": "bwaber",
+        "display_name": "Ben Waber",
+        "note": "<p>President and Co-Founder of Humanyze, he/him, Media Lab Visiting Scientist, former Senior Researcher @ HBS, author of People Analytics</p>",
+        "followers_count": 708,
+        "following_count": 404,
+        "followers": [
+            110309354650536938,
+            110476181839630923,
+            109297398294771412
+        ],
+        "followings": [
+            109242494137478793,
+            109297398294771412
+        ],
+        "statuses_count": 2871,
+        "created_at": "2022-11-01 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "bwaber@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@bwaber"
+    },
+    {
+        "id": 109243587005183609,
+        "username": "davidthewid",
+        "display_name": "David Gray Widder",
+        "note": "<p>\"Ethical AI\"??!?!</p><p>(un)censored sensor unplugger</p><p>art:IG@davidthewid</p><p>PhD from CMU, exNASA/MSR/IntelLabs</p><p>🔜Cornell Tech. </p><p>he/him</p>",
+        "followers_count": 676,
+        "following_count": 268,
+        "followers": [
+            109243295678325961,
+            109903883411299615
+        ],
+        "followings": [
+            109903883411299615
+        ],
+        "statuses_count": 462,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-17 00:00:00",
+        "acct": "davidthewid@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@davidthewid"
+    },
+    {
+        "id": 109299953063331863,
+        "username": "shiwali",
+        "display_name": "Shiwali Mohan | शिवाली मोहन",
+        "note": "<p>Principal Scientist at <a href=\"https://sigmoid.social/tags/PARC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PARC</span></a>/#SRI. I lead <a href=\"https://sigmoid.social/tags/CollaborativeHumanAISystems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CollaborativeHumanAISystems</span></a> research</p><p>Builder of <a href=\"https://sigmoid.social/tags/HumanAware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HumanAware</span></a> <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://sigmoid.social/tags/Systems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Systems</span></a>. <a href=\"https://sigmoid.social/tags/HCI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HCI</span></a> + <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>. I care about insights from human-centered sciences - <a href=\"https://sigmoid.social/tags/CognitiveScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CognitiveScience</span></a>, <a href=\"https://sigmoid.social/tags/BehaviorEconomics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BehaviorEconomics</span></a>, <a href=\"https://sigmoid.social/tags/Linguistics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linguistics</span></a> &amp; use them to design/constraint <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>, <a href=\"https://sigmoid.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> behavior. </p><p>Designer of <a href=\"https://sigmoid.social/tags/HybridAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HybridAI</span></a>: <a href=\"https://sigmoid.social/tags/CognitiveAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CognitiveAI</span></a> + <a href=\"https://sigmoid.social/tags/DL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DL</span></a>. I study the interfaces between symbolic &amp; deep computations. <a href=\"https://sigmoid.social/tags/NeuroSymbolic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroSymbolic</span></a>.</p><p>Believer in <a href=\"https://sigmoid.social/tags/AIForGood\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIForGood</span></a>.</p><p>Trained at <a href=\"https://sigmoid.social/tags/MichiganAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MichiganAI</span></a>, <a href=\"https://sigmoid.social/tags/MichiganCSE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MichiganCSE</span></a></p><p>Born in <a href=\"https://sigmoid.social/tags/India\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>India</span></a></p>",
+        "followers_count": 655,
+        "following_count": 166,
+        "followers": [
+            109248614317108614
+        ],
+        "followings": [],
+        "statuses_count": 288,
+        "created_at": "2022-11-05 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "shiwali@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@shiwali"
+    },
+    {
+        "id": 109216001586497273,
+        "username": "mizlemon",
+        "display_name": "MiaD",
+        "note": "<p>Lover of indie bookstores and public libraries. Here to toot about AI, tech, ethics, diversity, education, cats, coffee, books...</p>",
+        "followers_count": 550,
+        "following_count": 172,
+        "followers": [],
+        "followings": [
+            109208640580649385
+        ],
+        "statuses_count": 471,
+        "created_at": "2022-10-22 00:00:00",
+        "last_status_at": "2023-07-04 00:00:00",
+        "acct": "mizlemon@mstdn.social",
+        "bot": false,
+        "group": false,
+        "url": "https://mstdn.social/@mizlemon"
+    },
+    {
+        "id": 109288395066962197,
+        "username": "hessiej",
+        "display_name": "Hessie Jones",
+        "note": "<p>Fixing the diversity funding gap. Helping build privacy solutions. I help grow startups. Forbes Contributor. I write on data privacy, AI ethics, investment and entrepreneurship.</p>",
+        "followers_count": 509,
+        "following_count": 330,
+        "followers": [
+            982771,
+            109246365513891734
+        ],
+        "followings": [
+            108194282025075046
+        ],
+        "statuses_count": 445,
+        "created_at": "2022-11-05 00:00:00",
+        "last_status_at": "2023-08-27 00:00:00",
+        "acct": "hessiej@mas.to",
+        "bot": false,
+        "group": false,
+        "url": "https://mas.to/@hessiej"
+    },
+    {
+        "id": 108140462489609682,
+        "username": "pschuetze",
+        "display_name": "Paul Schütze",
+        "note": "<p>(he/him) | PhDing on AI, Digital <a href=\"https://mastodon.social/tags/Capitalism\" class=\"mention hashtag\" rel=\"tag\">#<span>Capitalism</span></a> &amp; <a href=\"https://mastodon.social/tags/ClimateCrisis\" class=\"mention hashtag\" rel=\"tag\">#<span>ClimateCrisis</span></a> | <a href=\"https://mastodon.social/tags/Ethics\" class=\"mention hashtag\" rel=\"tag\">#<span>Ethics</span></a> of AI | <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> &amp; <a href=\"https://mastodon.social/tags/Climate\" class=\"mention hashtag\" rel=\"tag\">#<span>Climate</span></a>  | <a href=\"https://mastodon.social/tags/Philosophy\" class=\"mention hashtag\" rel=\"tag\">#<span>Philosophy</span></a><br /><a href=\"https://paulschuetze.de\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">paulschuetze.de</span><span class=\"invisible\"></span></a></p>",
+        "followers_count": 508,
+        "following_count": 295,
+        "followers": [
+            109472611508264434
+        ],
+        "followings": [
+            109406342016073411,
+            109273466838750409,
+            109546577068692939,
+            1308050,
+            109274666075152887,
+            109297673435629688,
+            108430374204746075,
+            109296598505676703
+        ],
+        "statuses_count": 99,
+        "created_at": "2022-04-16 00:00:00",
+        "last_status_at": "2023-05-31 00:00:00",
+        "acct": "pschuetze",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@pschuetze"
+    },
+    {
+        "id": 982771,
+        "username": "TryshHQ",
+        "display_name": "Jim Parsons",
+        "note": "<p>Innovator, entrepreneur, (ex-Aldus, Apple, RealNetworks, mobile/social SU&#39;s). <br />Current: Founder/CEO Forty Walnuts, <br />a Family-Patient-Privacy-centric <a href=\"https://mastodon.social/tags/HealthTech\" class=\"mention hashtag\" rel=\"tag\">#<span>HealthTech</span></a> startup and home of...</p><p>&quot;Trysh: The Fitness Tracker for Mental Health&quot;</p><p>enabling evidence based precision medicine for the Behavioural Sciences via WATCH<br /><a href=\"https://mastodon.social/tags/Toronto\" class=\"mention hashtag\" rel=\"tag\">#<span>Toronto</span></a> 🇨🇦 🇺🇸 🇦🇺</p><p>VISION:<br />• <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a><br />• dignity<br />• agency<br />–THAT ACCRUES TO–<br />• individuals <br />• patients <br />• families <br />–BEFORE–<br />• researchers<br />• institutions <br />• <a href=\"https://mastodon.social/tags/BigTech\" class=\"mention hashtag\" rel=\"tag\">#<span>BigTech</span></a>/#VC</p>",
+        "followers_count": 488,
+        "following_count": 1325,
+        "followers": [],
+        "followings": [
+            109256655744212204,
+            109339302446522513,
+            109264490322355185,
+            109288395066962197,
+            108575628787827997
+        ],
+        "statuses_count": 3469,
+        "created_at": "2019-11-09 00:00:00",
+        "last_status_at": "2023-09-19 00:00:00",
+        "acct": "TryshHQ",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@TryshHQ"
+    },
+    {
+        "id": 109406342016073411,
+        "username": "ErrantCanadian",
+        "display_name": "Trystan Goetze 🦉🔧",
+        "note": "<p>Senior Lecturer and Director, Sue G. and Harry E. Bovay Program in the History and Ethics of Professional Engineering, Cornell University.</p><p>Follow me here for <a href=\"https://zirk.us/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a>, <a href=\"https://zirk.us/tags/pedagogy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pedagogy</span></a>, <a href=\"https://zirk.us/tags/computerEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computerEthics</span></a>, <a href=\"https://zirk.us/tags/AIethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIethics</span></a>, <a href=\"https://zirk.us/tags/engineeringEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>engineeringEthics</span></a></p><p>Header: Painting of an old man (Diogenes) in a crowded town square in Athens. In his left hand is an iPhone with an image of a lantern on-screen.<br>Portrait: White, male-presenting person with short dark hair, beard, glasses, tweed jacket. Photo by Jani Autio.</p>",
+        "followers_count": 482,
+        "following_count": 368,
+        "followers": [
+            109207599306718945,
+            108140462489609682,
+            42693
+        ],
+        "followings": [
+            109242494137478793,
+            109207599306718945
+        ],
+        "statuses_count": 118,
+        "created_at": "2022-11-25 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "ErrantCanadian@zirk.us",
+        "bot": false,
+        "group": false,
+        "url": "https://zirk.us/@ErrantCanadian"
+    },
+    {
+        "id": 39894,
+        "username": "coty",
+        "display_name": "Coty Rosenblath",
+        "note": "<p>CTO at Katalon. Previously at Mailchimp and misc. startups. Talk about test automation, AI/ML, ethics, politics, language, etc. He/him.  <a href=\"https://mastodon.social/tags/ai\" class=\"mention hashtag\" rel=\"tag\">#<span>ai</span></a> <a href=\"https://mastodon.social/tags/atlanta\" class=\"mention hashtag\" rel=\"tag\">#<span>atlanta</span></a> <a href=\"https://mastodon.social/tags/cycling\" class=\"mention hashtag\" rel=\"tag\">#<span>cycling</span></a> <a href=\"https://mastodon.social/tags/language\" class=\"mention hashtag\" rel=\"tag\">#<span>language</span></a> <a href=\"https://mastodon.social/tags/politics\" class=\"mention hashtag\" rel=\"tag\">#<span>politics</span></a> <a href=\"https://mastodon.social/tags/religion\" class=\"mention hashtag\" rel=\"tag\">#<span>religion</span></a> <a href=\"https://mastodon.social/tags/testing\" class=\"mention hashtag\" rel=\"tag\">#<span>testing</span></a> <a href=\"https://mastodon.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"tag\">#<span>MachineLearning</span></a> <a href=\"https://mastodon.social/tags/TestAutomation\" class=\"mention hashtag\" rel=\"tag\">#<span>TestAutomation</span></a> <a href=\"https://mastodon.social/tags/EditedInIvory\" class=\"mention hashtag\" rel=\"tag\">#<span>EditedInIvory</span></a></p>",
+        "followers_count": 461,
+        "following_count": 1217,
+        "followers": [],
+        "followings": [
+            109280935474675728,
+            109339302446522513,
+            109349394367481729,
+            109422215427838356
+        ],
+        "statuses_count": 2086,
+        "created_at": "2017-04-03 00:00:00",
+        "last_status_at": "2023-09-07 00:00:00",
+        "acct": "coty",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@coty"
+    },
+    {
+        "id": 109273466838750409,
+        "username": "jmnw",
+        "display_name": "",
+        "note": "<p>Researcher at the Department of Technology and Society, Lund University. Knowledge, ignorance, expertise.</p>",
+        "followers_count": 452,
+        "following_count": 154,
+        "followers": [
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 108,
+        "created_at": "2022-08-30 00:00:00",
+        "last_status_at": "2023-09-19 00:00:00",
+        "acct": "jmnw@post.lurk.org",
+        "bot": false,
+        "group": false,
+        "url": "https://post.lurk.org/@jmnw"
+    },
+    {
+        "id": 109246365513891734,
+        "username": "psb_dc",
+        "display_name": "Theodora Lau",
+        "note": "<p>Founder Unconventional Ventures | 📚 Author — Beyond Good 🛒 <a href=\"http://mybook.to/beyondgood\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">mybook.to/beyondgood</span><span class=\"invisible\"></span></a> | One Vision <a href=\"https://mastodon.social/tags/Podcast\" class=\"mention hashtag\" rel=\"tag\">#<span>Podcast</span></a> Host | Advisor | Speaker |</p><p>My interests: <a href=\"https://mastodon.social/tags/Fintech\" class=\"mention hashtag\" rel=\"tag\">#<span>Fintech</span></a>, <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a>, <a href=\"https://mastodon.social/tags/TechForGood\" class=\"mention hashtag\" rel=\"tag\">#<span>TechForGood</span></a>, <a href=\"https://mastodon.social/tags/DEI\" class=\"mention hashtag\" rel=\"tag\">#<span>DEI</span></a>, <a href=\"https://mastodon.social/tags/FinServ\" class=\"mention hashtag\" rel=\"tag\">#<span>FinServ</span></a>, <a href=\"https://mastodon.social/tags/Longevity\" class=\"mention hashtag\" rel=\"tag\">#<span>Longevity</span></a></p><p>Love <a href=\"https://mastodon.social/tags/food\" class=\"mention hashtag\" rel=\"tag\">#<span>food</span></a> and <a href=\"https://mastodon.social/tags/books\" class=\"mention hashtag\" rel=\"tag\">#<span>books</span></a></p>",
+        "followers_count": 451,
+        "following_count": 247,
+        "followers": [],
+        "followings": [
+            109258148192820344,
+            109288395066962197,
+            109512652859305629
+        ],
+        "statuses_count": 1825,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "psb_dc",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@psb_dc"
+    },
+    {
+        "id": 109239836008071013,
+        "username": "JCornebise",
+        "display_name": "Julien Cornebise",
+        "note": "<p>Hon. Associate Professor UCL | Ex-Dir. Research AI for Good &amp; Head of Element AI London Office | Ex-DeepMind. He/Him</p>",
+        "followers_count": 451,
+        "following_count": 81,
+        "followers": [
+            16496,
+            109298291758970865
+        ],
+        "followings": [],
+        "statuses_count": 44,
+        "created_at": "2022-10-27 00:00:00",
+        "last_status_at": "2023-03-06 00:00:00",
+        "acct": "JCornebise",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@JCornebise"
+    },
+    {
+        "id": 109246227481728758,
+        "username": "evijitghosh",
+        "display_name": "Avijit Ghosh",
+        "note": "<p>Researcher at AdeptID and Northeastern University studying Algorithmic Fairness/Ethical AI. Bengali, Swiftie ❤️ Ex: Twitter, Fiddler Labs. IIT Kharagpur Alum. 🌈 Volunteer: Accountable Algorithms Reading Group, Queer In AI</p>",
+        "followers_count": 448,
+        "following_count": 166,
+        "followers": [
+            109243295678325961
+        ],
+        "followings": [],
+        "statuses_count": 244,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-03 00:00:00",
+        "acct": "evijitghosh@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@evijitghosh"
+    },
+    {
+        "id": 109305873125049202,
+        "username": "will",
+        "display_name": "Will Landecker",
+        "note": "<p>algorithmic accountability. interpretable ML and AI ethics. crack open the black box and judge it. </p><p><a href=\"https://dair-community.social/tags/pdx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pdx</span></a> pacific northwesterner, born and raised in oakland. </p><p><a href=\"https://dair-community.social/tags/fermentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fermentation</span></a> (<a href=\"https://dair-community.social/tags/miso\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>miso</span></a>, <a href=\"https://dair-community.social/tags/cider\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cider</span></a>, <a href=\"https://dair-community.social/tags/koji\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>koji</span></a>). <a href=\"https://dair-community.social/tags/synthesizers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>synthesizers</span></a>. <a href=\"https://dair-community.social/tags/gardening\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gardening</span></a>. <a href=\"https://dair-community.social/tags/rugby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rugby</span></a> (union, league, and touch). <a href=\"https://dair-community.social/tags/antiracism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>antiracism</span></a>. <a href=\"https://dair-community.social/tags/antisexism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>antisexism</span></a>. </p><p>previous lives @ stripe, lyft, twitter. </p><p>parfois en français. </p><p>@thewill@twitter.com</p>",
+        "followers_count": 429,
+        "following_count": 343,
+        "followers": [
+            109207599306718945
+        ],
+        "followings": [],
+        "statuses_count": 78,
+        "created_at": "2022-11-07 00:00:00",
+        "last_status_at": "2023-07-16 00:00:00",
+        "acct": "will@dair-community.social",
+        "bot": false,
+        "group": false,
+        "url": "https://dair-community.social/@will"
+    },
+    {
+        "id": 109243295678325961,
+        "username": "KaradelaMarck",
+        "display_name": "Kara de la Marck",
+        "note": "<p>director codebar.io | graduate student AI Ethics <br />@ University of Cambridge</p>",
+        "followers_count": 427,
+        "following_count": 874,
+        "followers": [],
+        "followings": [
+            109308567416657443,
+            109282347509299015,
+            110261879366449996,
+            109310786303722957,
+            109559804558275501,
+            109246227481728758,
+            108225684829323574,
+            109243587005183609,
+            109344817683316703
+        ],
+        "statuses_count": 208,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "KaradelaMarck",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@KaradelaMarck"
+    },
+    {
+        "id": 109207599306718945,
+        "username": "RebekahTweed",
+        "display_name": "Rebekah Tweed",
+        "note": "<p>Program Director, All Tech Is Human</p><p>Here for convos about responsible tech &amp; public interest technology careers, talent, hiring trends</p><p>Posting open roles, fellowships, internships in Ethical AI, Digital Ethics, Online Safety, Tech Policy, Human-Centered Design, Public Interest Tech, etc</p><p>Reach out about: responsible tech job board, talent matchmaking, career fairs, mentorship program</p>",
+        "followers_count": 427,
+        "following_count": 243,
+        "followers": [
+            109654694731556080,
+            109472611508264434,
+            109406342016073411,
+            109429175308688908
+        ],
+        "followings": [
+            109309778096366045,
+            109406342016073411,
+            108194282025075046,
+            109262279963991245,
+            109305873125049202,
+            109320504378979581
+        ],
+        "statuses_count": 75,
+        "created_at": "2022-10-21 00:00:00",
+        "last_status_at": "2022-11-10 00:00:00",
+        "acct": "RebekahTweed",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@RebekahTweed"
+    },
+    {
+        "id": 109247805320099680,
+        "username": "dawnnafus",
+        "display_name": "Dawn Nafus",
+        "note": "<p>Anthropologist  at a big tech co.  I do responsible AI for work. What I care about is decarbonizing tech, from high in the stack to deepest darkest infrastructure. And what I really care about when I&#39;m not a work person is ecosystems, justice, and a good cat or fungi pic. A day in pajamas doing nothing at all is a day well spent.</p><p><a href=\"https://mastodon.social/tags/sts\" class=\"mention hashtag\" rel=\"tag\">#<span>sts</span></a> <a href=\"https://mastodon.social/tags/anthropology\" class=\"mention hashtag\" rel=\"tag\">#<span>anthropology</span></a> <a href=\"https://mastodon.social/tags/responsibleAI\" class=\"mention hashtag\" rel=\"tag\">#<span>responsibleAI</span></a> <a href=\"https://mastodon.social/tags/climate\" class=\"mention hashtag\" rel=\"tag\">#<span>climate</span></a> <a href=\"https://mastodon.social/tags/sustainability\" class=\"mention hashtag\" rel=\"tag\">#<span>sustainability</span></a> <a href=\"https://mastodon.social/tags/AIethics\" class=\"mention hashtag\" rel=\"tag\">#<span>AIethics</span></a></p>",
+        "followers_count": 396,
+        "following_count": 365,
+        "followers": [],
+        "followings": [
+            108194282025075046,
+            109330706862887367,
+            109262279963991245,
+            1308050,
+            109274666075152887,
+            109320504378979581
+        ],
+        "statuses_count": 328,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "dawnnafus",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@dawnnafus"
+    },
+    {
+        "id": 109348053677835133,
+        "username": "asayeed",
+        "display_name": "Asad Sayeed",
+        "note": "<p>Associate professor of computational linguistics at the University of Gothenburg, Sweden</p>",
+        "followers_count": 394,
+        "following_count": 289,
+        "followers": [
+            109248142320449852
+        ],
+        "followings": [],
+        "statuses_count": 714,
+        "created_at": "2022-11-15 00:00:00",
+        "last_status_at": "2023-09-18 00:00:00",
+        "acct": "asayeed@zirk.us",
+        "bot": false,
+        "group": false,
+        "url": "https://zirk.us/@asayeed"
+    },
+    {
+        "id": 110683138029388912,
+        "username": "micwieczorek",
+        "display_name": "Michał Wieczorek",
+        "note": "<p>Philosopher currently at Dublin City University. I received a PhD for wondering if a Fitbit can make you a good person. Interested in self-tracking, habits, Deweyan pragmatism, applied ethics &amp; technology. Posting about <a href=\"https://mastodon.social/tags/ethics\" class=\"mention hashtag\" rel=\"tag\">#<span>ethics</span></a>, responsible <a href=\"https://mastodon.social/tags/technology\" class=\"mention hashtag\" rel=\"tag\">#<span>technology</span></a>, weird music and books.</p>",
+        "followers_count": 374,
+        "following_count": 34,
+        "followers": [
+            108225684829323574
+        ],
+        "followings": [
+            109963983168183181,
+            109288539216246486,
+            108225684829323574,
+            109370972899325309
+        ],
+        "statuses_count": 4,
+        "created_at": "2023-07-09 00:00:00",
+        "last_status_at": "2023-09-01 00:00:00",
+        "acct": "micwieczorek",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@micwieczorek"
+    },
+    {
+        "id": 109248142320449852,
+        "username": "gdm",
+        "display_name": "Gerard de Melo",
+        "note": "<p>Professor for <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> at HPI / University of Potsdam (based in Berlin, Germany)<br />Previously: Rutgers (US), Tsinghua (Beijing).</p><p><a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a>, <a href=\"https://mastodon.social/tags/NLP\" class=\"mention hashtag\" rel=\"tag\">#<span>NLP</span></a>, <a href=\"https://mastodon.social/tags/DataScience\" class=\"mention hashtag\" rel=\"tag\">#<span>DataScience</span></a>, <a href=\"https://mastodon.social/tags/ML\" class=\"mention hashtag\" rel=\"tag\">#<span>ML</span></a>, <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a></p><p>he/him</p>",
+        "followers_count": 370,
+        "following_count": 291,
+        "followers": [
+            110766811677899168
+        ],
+        "followings": [
+            109365305787355280,
+            109308758520538091,
+            109348053677835133,
+            109269069980825358
+        ],
+        "statuses_count": 195,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-09-15 00:00:00",
+        "acct": "gdm",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@gdm"
+    },
+    {
+        "id": 109512652859305629,
+        "username": "MoSchoenfeld",
+        "display_name": "Mo Schoenfeld (she/her)",
+        "note": "<p>Published poet, writer, parent, works in the humanitarian field. I write mostly <a href=\"https://zirk.us/tags/haiku\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>haiku</span></a> &amp; <a href=\"https://zirk.us/tags/SmallPoems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SmallPoems</span></a>, but working up to longer &amp; varied forms of <a href=\"https://zirk.us/tags/poetry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poetry</span></a>. Nature, environment, climate &amp; social justice, human rights in general, LGBTQIA+ &amp; women's reproductive rights, disability rights, AI &amp; tech ethics and rights, mental health, music (esp. jazz), art, film, theatre. Unless cited, writing, photos/videos are my © <a href=\"https://zirk.us/tags/PoetryCommunity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoetryCommunity</span></a> <a href=\"https://zirk.us/tags/WritingCommunity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WritingCommunity</span></a> 🕯(Boosts welcome)</p>",
+        "followers_count": 369,
+        "following_count": 394,
+        "followers": [
+            109246365513891734
+        ],
+        "followings": [],
+        "statuses_count": 842,
+        "created_at": "2022-12-14 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "MoSchoenfeld@zirk.us",
+        "bot": false,
+        "group": false,
+        "url": "https://zirk.us/@MoSchoenfeld"
+    },
+    {
+        "id": 109253383834760376,
+        "username": "carologic",
+        "display_name": "Carol J. Smith",
+        "note": "<p>HCI research for responsible, human-centered AI, and human-machine teaming at CMU SEI. Teach at CMU HCII.<br>❤️ 👨‍👩‍👧‍👦🐈‍⬛🐈‍⬛🐈‍⬛ ☀️Post on <a href=\"https://hci.social/tags/HCI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HCI</span></a>  <a href=\"https://hci.social/tags/UX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UX</span></a>  <a href=\"https://hci.social/tags/ethicalAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethicalAI</span></a>  <a href=\"https://hci.social/tags/RAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RAI</span></a>  <a href=\"https://hci.social/tags/HCAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HCAI</span></a>  <a href=\"https://hci.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://hci.social/tags/WomeninTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WomeninTech</span></a> <a href=\"https://hci.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://hci.social/tags/robots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>robots</span></a> <a href=\"https://hci.social/tags/UCD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UCD</span></a> <a href=\"https://hci.social/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a> <a href=\"https://hci.social/tags/ADHD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ADHD</span></a> - ALL are only my 💡’s</p>",
+        "followers_count": 337,
+        "following_count": 212,
+        "followers": [
+            109244332431164585
+        ],
+        "followings": [],
+        "statuses_count": 45,
+        "created_at": "2022-10-29 00:00:00",
+        "last_status_at": "2023-02-18 00:00:00",
+        "acct": "carologic@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@carologic"
+    },
+    {
+        "id": 109349394367481729,
+        "username": "roban",
+        "display_name": "Roban Hultman Kramer",
+        "note": "<p>I work on AI Ethics at Indeed.<br>Previously: machine learning at Stripe, astrophysics.</p>",
+        "followers_count": 325,
+        "following_count": 857,
+        "followers": [
+            7298,
+            39894
+        ],
+        "followings": [],
+        "statuses_count": 306,
+        "created_at": "2022-11-08 00:00:00",
+        "last_status_at": "2023-08-14 00:00:00",
+        "acct": "roban@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@roban"
+    },
+    {
+        "id": 109298291758970865,
+        "username": "lacion",
+        "display_name": "Laura Ación",
+        "note": "<p>Health AI &amp; Data Science. Ethics in AI. Argentinean Research Council (CONICET) Researcher, MetaDocencia's Co-founder/Exec Co-dir, and several other hats that don't fit here. Most often a misfit</p><p><a href=\"http://lacion.rbind.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">lacion.rbind.io</span><span class=\"invisible\"></span></a></p><p>She/Her/Dr/Ella/Dra</p>",
+        "followers_count": 323,
+        "following_count": 488,
+        "followers": [],
+        "followings": [
+            16496,
+            109364009569913332,
+            109239836008071013,
+            108225684829323574
+        ],
+        "statuses_count": 169,
+        "created_at": "2022-11-06 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "lacion@scicomm.xyz",
+        "bot": false,
+        "group": false,
+        "url": "https://scicomm.xyz/@lacion"
+    },
+    {
+        "id": 108430374204746075,
+        "username": "thierna",
+        "display_name": "Thierna",
+        "note": "<p>Ethics of <a href=\"https://mastodon.green/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>, Ethik der <a href=\"https://mastodon.green/tags/KI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KI</span></a>, Future of Education, KinderFahrradDemo, <a href=\"https://mastodon.green/tags/KidicalMass\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KidicalMass</span></a>,<br>Participant of PostcardSwap looking forward to some nice pictures from someplace else - also interested in uncommon stamps</p><p>Writes in German and English, understands FR and ES, tried to learn Irish, is happy to see all the other languages in the timeline</p>",
+        "followers_count": 320,
+        "following_count": 877,
+        "followers": [
+            108140462489609682,
+            452687
+        ],
+        "followings": [],
+        "statuses_count": 4554,
+        "created_at": "2022-04-25 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "thierna@mastodon.green",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.green/@thierna"
+    },
+    {
+        "id": 108194468985028114,
+        "username": "mviktoro",
+        "display_name": "Monika Viktorova",
+        "note": "<p>avoiding dystopia one newsletter at a time <a href=\"https://t3thics.substack.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">t3thics.substack.com/</span><span class=\"invisible\"></span></a><br /><a href=\"https://mastodon.social/tags/product\" class=\"mention hashtag\" rel=\"tag\">#<span>product</span></a> <a href=\"https://mastodon.social/tags/responsibletech\" class=\"mention hashtag\" rel=\"tag\">#<span>responsibletech</span></a> <a href=\"https://mastodon.social/tags/techethics\" class=\"mention hashtag\" rel=\"tag\">#<span>techethics</span></a> <a href=\"https://mastodon.social/tags/aiethics\" class=\"mention hashtag\" rel=\"tag\">#<span>aiethics</span></a> <a href=\"https://mastodon.social/tags/technology\" class=\"mention hashtag\" rel=\"tag\">#<span>technology</span></a> <a href=\"https://mastodon.social/tags/disinformation\" class=\"mention hashtag\" rel=\"tag\">#<span>disinformation</span></a> <a href=\"https://mastodon.social/tags/feminism\" class=\"mention hashtag\" rel=\"tag\">#<span>feminism</span></a> <a href=\"https://mastodon.social/tags/podcasts\" class=\"mention hashtag\" rel=\"tag\">#<span>podcasts</span></a> <a href=\"https://mastodon.social/tags/cats\" class=\"mention hashtag\" rel=\"tag\">#<span>cats</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"tag\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/UBI\" class=\"mention hashtag\" rel=\"tag\">#<span>UBI</span></a> tfr<br />she/her 🇨🇦🇧🇬</p>",
+        "followers_count": 306,
+        "following_count": 148,
+        "followers": [],
+        "followings": [
+            109330825687197455
+        ],
+        "statuses_count": 479,
+        "created_at": "2022-04-25 00:00:00",
+        "last_status_at": "2023-09-15 00:00:00",
+        "acct": "mviktoro",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@mviktoro"
+    },
+    {
+        "id": 109269069980825358,
+        "username": "negar",
+        "display_name": "Negar Rostamzadeh",
+        "note": "<p>she/her, Ethical AI research, Google</p>",
+        "followers_count": 298,
+        "following_count": 39,
+        "followers": [
+            109248142320449852
+        ],
+        "followings": [],
+        "statuses_count": 4,
+        "created_at": "2022-11-01 00:00:00",
+        "last_status_at": "2023-07-03 00:00:00",
+        "acct": "negar@mstdn.social",
+        "bot": false,
+        "group": false,
+        "url": "https://mstdn.social/@negar"
+    },
+    {
+        "id": 109208640580649385,
+        "username": "etchin",
+        "display_name": "Elizabeth T. Chin",
+        "note": "<p>Assistant Professor of Biostatistics @ JHU | Studying mass incarceration, health, ethical AI &amp; AI Regulation | she/her</p>",
+        "followers_count": 285,
+        "following_count": 98,
+        "followers": [
+            109216001586497273,
+            109472611508264434,
+            109429175308688908
+        ],
+        "followings": [
+            109309778096366045
+        ],
+        "statuses_count": 28,
+        "created_at": "2022-10-21 00:00:00",
+        "last_status_at": "2023-07-07 00:00:00",
+        "acct": "etchin",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@etchin"
+    },
+    {
+        "id": 109308567416657443,
+        "username": "mlk",
+        "display_name": "FreebirdFrolic",
+        "note": "<p>It's great to be here among my fellow Mastadonians.  Cat mom, grandmother to cats, exercise devotee, still crazy after all these years! </p><p>Truth in <a href=\"https://universeodon.com/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <br><a href=\"https://universeodon.com/tags/CovidIsNotOver\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CovidIsNotOver</span></a>  <a href=\"https://universeodon.com/tags/JagmeetSingh\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JagmeetSingh</span></a> <br><a href=\"https://universeodon.com/tags/caturday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>caturday</span></a><br><a href=\"https://universeodon.com/tags/NeverVoteConservative\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeverVoteConservative</span></a> <br><a href=\"https://universeodon.com/tags/SilentSunday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SilentSunday</span></a> <a href=\"https://universeodon.com/tags/DemocracyDocket\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DemocracyDocket</span></a><br><a href=\"https://universeodon.com/tags/ScienceUpFirst\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ScienceUpFirst</span></a> <a href=\"https://universeodon.com/tags/unionstrong\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unionstrong</span></a> <br><a href=\"https://universeodon.com/tags/CoerciveControl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CoerciveControl</span></a><br><a href=\"https://universeodon.com/tags/RecoveringCatholic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RecoveringCatholic</span></a><br><a href=\"https://universeodon.com/tags/nakedcats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nakedcats</span></a><br><a href=\"https://universeodon.com/tags/Sphynx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Sphynx</span></a>   <a href=\"https://universeodon.com/tags/NDP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NDP</span></a></p><p> <br>Verified by <a href=\"https://fedified.com\" rel=\"nofollow noopener noreferrer\" translate=\"no\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fedified.com</span><span class=\"invisible\"></span></a></p>",
+        "followers_count": 284,
+        "following_count": 415,
+        "followers": [
+            109243295678325961,
+            40435
+        ],
+        "followings": [],
+        "statuses_count": 3726,
+        "created_at": "2022-11-08 00:00:00",
+        "last_status_at": "2023-09-13 00:00:00",
+        "acct": "mlk@universeodon.com",
+        "bot": false,
+        "group": false,
+        "url": "https://universeodon.com/@mlk"
+    },
+    {
+        "id": 109309778096366045,
+        "username": "borhane",
+        "display_name": "Borhane Blili-Hamelin, PhD",
+        "note": "<p>(he/him) I’m an organizer, researcher, and consultant focused on AI ethics. My focus is making AI governance more cross-disciplinary, reflective, and empowering for impacted communities. I'm the founder and director of Accountability Case Labs (<a href=\"https://accountabilitycaselabs.xyz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">accountabilitycaselabs.xyz</span><span class=\"invisible\"></span></a>), and an AI risk consultant with BABL AI. </p><p>I love to make music machines misbehave!</p><p><a href=\"https://borhane.xyz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">borhane.xyz</span><span class=\"invisible\"></span></a></p>",
+        "followers_count": 283,
+        "following_count": 273,
+        "followers": [
+            109207599306718945,
+            109208640580649385
+        ],
+        "followings": [],
+        "statuses_count": 74,
+        "created_at": "2022-11-08 00:00:00",
+        "last_status_at": "2023-08-18 00:00:00",
+        "acct": "borhane@dair-community.social",
+        "bot": false,
+        "group": false,
+        "url": "https://dair-community.social/@borhane"
+    },
+    {
+        "id": 109274666075152887,
+        "username": "CorinnaBalkow",
+        "display_name": "",
+        "note": "<p><a href=\"https://digitalcourage.social/tags/Ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ethics</span></a> of <a href=\"https://digitalcourage.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> or <a href=\"https://digitalcourage.social/tags/AIEthics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIEthics</span></a> , <a href=\"https://digitalcourage.social/tags/Digital\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Digital</span></a> Society, Algorithmen Monitoring <a href=\"https://digitalcourage.social/tags/AlgoMon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AlgoMon</span></a>, <a href=\"https://digitalcourage.social/tags/EthikDerKI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EthikDerKI</span></a> ,  <a href=\"https://digitalcourage.social/tags/RRI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RRI</span></a>, <a href=\"https://digitalcourage.social/tags/TeamDatenschutz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TeamDatenschutz</span></a></p>",
+        "followers_count": 276,
+        "following_count": 573,
+        "followers": [
+            109247805320099680,
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 950,
+        "created_at": "2022-10-30 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "CorinnaBalkow@digitalcourage.social",
+        "bot": false,
+        "group": false,
+        "url": "https://digitalcourage.social/@CorinnaBalkow"
+    },
+    {
+        "id": 109262279963991245,
+        "username": "BecJ",
+        "display_name": "Bec Johnson",
+        "note": "<p>PhD in AI ethics @Sydney_Uni Student researcher @GoogleResearch (Responsible AI)<br>Founder <a href=\"http://PhDAIethics.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">PhDAIethics.com</span><span class=\"invisible\"></span></a><br>🇦🇺🇨🇦🐶<br>She/her</p>",
+        "followers_count": 267,
+        "following_count": 117,
+        "followers": [
+            109247805320099680,
+            109207599306718945
+        ],
+        "followings": [],
+        "statuses_count": 131,
+        "created_at": "2022-10-30 00:00:00",
+        "last_status_at": "2023-06-02 00:00:00",
+        "acct": "BecJ@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@BecJ"
+    },
+    {
+        "id": 16496,
+        "username": "czernie",
+        "display_name": "czernie",
+        "note": "<p>Ja Nee</p>",
+        "followers_count": 262,
+        "following_count": 470,
+        "followers": [
+            109298291758970865
+        ],
+        "followings": [
+            108197838129496380,
+            109239836008071013
+        ],
+        "statuses_count": 148,
+        "created_at": "2016-11-29 00:00:00",
+        "last_status_at": "2023-08-31 00:00:00",
+        "acct": "czernie",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@czernie"
+    },
+    {
+        "id": 109837546587358876,
+        "username": "DroidEngineer",
+        "display_name": "🤖 The Droid Engineer (⊙﹏⊙)",
+        "note": "<p>:gaming_pacman2: :gaming_pacman1:  :gaming_pacman3: :gaming_pacman4:</p><p>Research scientist, author, <a href=\"https://universeodon.com/tags/maker\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maker</span></a>, <a href=\"https://universeodon.com/tags/veteran\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>veteran</span></a>, humorist, game nerd, animal advocate, WFR / EMT-W, <a href=\"https://universeodon.com/tags/STEM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>STEM</span></a> outreach, devotee of truth</p><p>English is important but math is importanter<br>🌎♻️🤺🚴⛺ 🕉 :rust: :science: :ubuntu: :startrek: 🇺🇦  :prideflag:</p><p><a href=\"https://universeodon.com/tags/Science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Science</span></a> <a href=\"https://universeodon.com/tags/Biology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Biology</span></a> <a href=\"https://universeodon.com/tags/CellBio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CellBio</span></a> <a href=\"https://universeodon.com/tags/MolBio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MolBio</span></a> <a href=\"https://universeodon.com/tags/MicroBio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MicroBio</span></a> <a href=\"https://universeodon.com/tags/SynthBio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SynthBio</span></a> <a href=\"https://universeodon.com/tags/BioChem\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BioChem</span></a> <a href=\"https://universeodon.com/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://universeodon.com/tags/logic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>logic</span></a> <a href=\"https://universeodon.com/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a> <a href=\"https://universeodon.com/tags/CriticalThinking\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CriticalThinking</span></a> <a href=\"https://universeodon.com/tags/Rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rust</span></a> <a href=\"https://universeodon.com/tags/R\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R</span></a></p><p><a href=\"https://universeodon.com/tags/retrocomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retrocomputing</span></a> <a href=\"https://universeodon.com/tags/vintagecomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vintagecomputing</span></a></p><p><a href=\"https://universeodon.com/tags/MST3K\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MST3K</span></a> <a href=\"https://universeodon.com/tags/Futurama\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Futurama</span></a> <a href=\"https://universeodon.com/tags/fran%C3%A7ais\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>français</span></a> <a href=\"https://universeodon.com/tags/SpecFic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpecFic</span></a></p>",
+        "followers_count": 249,
+        "following_count": 254,
+        "followers": [
+            7298
+        ],
+        "followings": [],
+        "statuses_count": 1098,
+        "created_at": "2023-02-10 00:00:00",
+        "last_status_at": "2023-03-19 00:00:00",
+        "acct": "DroidEngineer@universeodon.com",
+        "bot": false,
+        "group": false,
+        "url": "https://universeodon.com/@DroidEngineer"
+    },
+    {
+        "id": 109349326032334825,
+        "username": "conitzer",
+        "display_name": "Vincent Conitzer",
+        "note": "<p>AI professor. Director, Foundations of Cooperative AI Lab (FOCAL) at Carnegie Mellon.  Head of Technical AI Engagement, Oxford Institute for Ethics in AI.  <a href=\"http://www.cs.cmu.edu/~conitzer/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">cs.cmu.edu/~conitzer/</span><span class=\"invisible\"></span></a></p>",
+        "followers_count": 248,
+        "following_count": 186,
+        "followers": [
+            109242494137478793
+        ],
+        "followings": [],
+        "statuses_count": 106,
+        "created_at": "2022-11-15 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "conitzer@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@conitzer"
+    },
+    {
+        "id": 109387687925767924,
+        "username": "aim4dem",
+        "display_name": "AI, Media & Democracy Lab",
+        "note": "<p>Ethical Legal Societal laboratory focused on the implications of AI for Media and Democracy. 🤝 <span class=\"h-card\"><a href=\"https://akademienl.social/@uva_amsterdam\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>uva_amsterdam</span></a></span>, <span class=\"h-card\"><a href=\"https://mstdn.social/@hva\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hva</span></a></span> &amp; CWI</p>",
+        "followers_count": 244,
+        "following_count": 38,
+        "followers": [
+            110909873843092031
+        ],
+        "followings": [],
+        "statuses_count": 38,
+        "created_at": "2022-11-22 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "aim4dem@akademienl.social",
+        "bot": false,
+        "group": false,
+        "url": "https://akademienl.social/@aim4dem"
+    },
+    {
+        "id": 109362220217892895,
+        "username": "ainews",
+        "display_name": "Artificial Intelligence News",
+        "note": "<p>Posting the latest news in Artificial Intelligence. <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/ArtificialIntelligence\" class=\"mention hashtag\" rel=\"tag\">#<span>ArtificialIntelligence</span></a> <a href=\"https://mastodon.social/tags/AIArt\" class=\"mention hashtag\" rel=\"tag\">#<span>AIArt</span></a> <a href=\"https://mastodon.social/tags/tech\" class=\"mention hashtag\" rel=\"tag\">#<span>tech</span></a> <a href=\"https://mastodon.social/tags/technology\" class=\"mention hashtag\" rel=\"tag\">#<span>technology</span></a></p>",
+        "followers_count": 236,
+        "following_count": 20,
+        "followers": [
+            109290928073880133,
+            110909873843092031
+        ],
+        "followings": [],
+        "statuses_count": 138,
+        "created_at": "2022-11-18 00:00:00",
+        "last_status_at": "2023-09-15 00:00:00",
+        "acct": "ainews",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@ainews"
+    },
+    {
+        "id": 109963983168183181,
+        "username": "SandraWachter",
+        "display_name": "Sandra Wachter",
+        "note": "<p>Professor of Technology and Reghttps://eupulation at the University of Oxford. sandra.wachter@oii.ox.ac.uk</p><p>Research on the legal and ethical implications of emerging technologies, AI, Big Data, and robotics as well as Internet and platform regulation. <a href=\"https://www.oii.ox.ac.uk/people/profiles/sandra-wachter/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">oii.ox.ac.uk/people/profiles/s</span><span class=\"invisible\">andra-wachter/</span></a></p><p>Founder of the Governance of Emerging Technologies (GET) Research Programme at the Oxford Internet Institute. <a href=\"https://www.oii.ox.ac.uk/research/projects/governance-of-emerging-technologies/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">oii.ox.ac.uk/research/projects</span><span class=\"invisible\">/governance-of-emerging-technologies/</span></a></p>",
+        "followers_count": 226,
+        "following_count": 112,
+        "followers": [
+            110683138029388912,
+            109244351160611036
+        ],
+        "followings": [
+            109244351160611036
+        ],
+        "statuses_count": 44,
+        "created_at": "2023-03-03 00:00:00",
+        "last_status_at": "2023-08-09 00:00:00",
+        "acct": "SandraWachter@eupolicy.social",
+        "bot": false,
+        "group": false,
+        "url": "https://eupolicy.social/@SandraWachter"
+    },
+    {
+        "id": 109388981490479396,
+        "username": "devotaj",
+        "display_name": "Ketzirah Lesser",
+        "note": "<p>Geek. Stitch. Pray.</p><p>Hi! I’m Ketzirah - Gen-X (49), INTJ, Di, E-5, Manifesting Generator, Virgo ☀️ Libra 🌛 Leo 📈, Ravenclaw.</p><p>I’m a Jewish maker/teacher of the sacred arts, Kohenet, golem-maker, fiber &amp; AI artist, Mussar-nik, recovering corporate priestess, and geek in all the good ways.</p><p>I live in DC with amazing husband, an enchanted stove, and 2 bunnies @wechewintheshadows on IG).</p><p>By day I work for a 3-letter agency. But it’s not the one you are thinking of.</p><p><a href=\"https://babka.social/tags/mazeldon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mazeldon</span></a> <a href=\"https://babka.social/tags/jewitch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jewitch</span></a></p>",
+        "followers_count": 225,
+        "following_count": 128,
+        "followers": [
+            109297398294771412
+        ],
+        "followings": [],
+        "statuses_count": 328,
+        "created_at": "2022-11-22 00:00:00",
+        "last_status_at": "2023-07-14 00:00:00",
+        "acct": "devotaj@babka.social",
+        "bot": false,
+        "group": false,
+        "url": "https://babka.social/@devotaj"
+    },
+    {
+        "id": 109473643389290807,
+        "username": "lupposofi",
+        "display_name": "Lupposofi",
+        "note": "<p><a href=\"https://www.lupposofi.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">lupposofi.com/</span><span class=\"invisible\"></span></a> <br>ja muutenkin aika hissukseen...</p><p>Seurailemiani sivustoja:</p><p><a href=\"https://plato.stanford.edu/new.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">plato.stanford.edu/new.html</span><span class=\"invisible\"></span></a><br><a href=\"https://informallogic.ca/index.php/informal_logic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">informallogic.ca/index.php/inf</span><span class=\"invisible\">ormal_logic</span></a><br><a href=\"https://social-epistemology.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">social-epistemology.com/</span><span class=\"invisible\"></span></a><br><a href=\"https://imperfectcognitions.blogspot.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">imperfectcognitions.blogspot.c</span><span class=\"invisible\">om/</span></a><br><a href=\"https://philosophyofbrains.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">philosophyofbrains.com/</span><span class=\"invisible\"></span></a><br><a href=\"https://www.alzforum.org/all-news\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">alzforum.org/all-news</span><span class=\"invisible\"></span></a><br><a href=\"https://bios.fi/#blogi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bios.fi/#blogi</span><span class=\"invisible\"></span></a><br><a href=\"https://journal.fi/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">journal.fi/</span><span class=\"invisible\"></span></a></p><p>Koetan olla pönkittämättä uutismedian luomaa ja ylläpitämää \"ajantasaa\".</p>",
+        "followers_count": 220,
+        "following_count": 213,
+        "followers": [],
+        "followings": [
+            109242494137478793
+        ],
+        "statuses_count": 3798,
+        "created_at": "2022-12-05 00:00:00",
+        "last_status_at": "2023-09-09 00:00:00",
+        "acct": "lupposofi@mastodontti.fi",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodontti.fi/@lupposofi"
+    },
+    {
+        "id": 1308050,
+        "username": "dwaynemonroe",
+        "display_name": "Dwayne Monroe",
+        "note": "<p>In the Netherlands. I'm focused on learning and sharing information about the political and social implications of technologies such as so-called 'AI'. Also, I'm always interested in a good martini recipe, film noir, Hegel, dialectical materialism and cybernetics (as defined by Satfford Beer) applied directly to modern concerns. Let's imagine and build a different future.</p>",
+        "followers_count": 217,
+        "following_count": 98,
+        "followers": [
+            109247805320099680,
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 134,
+        "created_at": "2020-11-01 00:00:00",
+        "last_status_at": "2023-09-02 00:00:00",
+        "acct": "dwaynemonroe@mastodon.online",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.online/@dwaynemonroe"
+    },
+    {
+        "id": 109320504378979581,
+        "username": "nkokciyan",
+        "display_name": "Nadin Kökciyan",
+        "note": "<p>Lecturer in Artificial Intelligence in the School of Informatics, University of Edinburgh. A fan of Responsible and Ethical AI, Personal Privacy Assistants and Argument Mining.</p>",
+        "followers_count": 213,
+        "following_count": 204,
+        "followers": [
+            109247805320099680,
+            109242494137478793,
+            109207599306718945
+        ],
+        "followings": [
+            108191699650446781
+        ],
+        "statuses_count": 175,
+        "created_at": "2022-11-10 00:00:00",
+        "last_status_at": "2023-03-12 00:00:00",
+        "acct": "nkokciyan@fediscience.org",
+        "bot": false,
+        "group": false,
+        "url": "https://fediscience.org/@nkokciyan"
+    },
+    {
+        "id": 109429175308688908,
+        "username": "Dan",
+        "display_name": "Dan Lovejoy",
+        "note": "<p>Enterprise Architect, reluctant Okie. Also a pretty good home cook and baker. World’s Okayest dad and husband.  </p><p>Kindness above all. </p><p>Trying to be an encourager here and everywhere. </p><p>I read a lot. I tell myself I read widely, history, biography. But the truth is, mostly SciFi. (A LOT of really good SciFi.)</p><p>Cover photo is an attempt at DallE-2 AI-generated art with the prompt something like \"Totoro as a short order cook at Waffle House.\"</p>",
+        "followers_count": 210,
+        "following_count": 458,
+        "followers": [],
+        "followings": [
+            109208640580649385,
+            109207599306718945
+        ],
+        "statuses_count": 461,
+        "created_at": "2022-11-29 00:00:00",
+        "last_status_at": "2023-08-24 00:00:00",
+        "acct": "Dan@okla.social",
+        "bot": false,
+        "group": false,
+        "url": "https://okla.social/@Dan"
+    },
+    {
+        "id": 109297673435629688,
+        "username": "OpenEd",
+        "display_name": "Marisa Ponti",
+        "note": "<p>🇮🇹 🇸🇪 Associate Professor at the University of Gothenburg, Sweden, Department of Applied IT.<br>Interested in Citizen Science, Citizen-Generated Data,  AI for Social Good. <br>Also interested in doing work at the science-policy interface.<br>More here: <a href=\"https://marisaponti.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">marisaponti.org/</span><span class=\"invisible\"></span></a><br>Theoretically informed by STS, especially ANT.<br>Trying to avoid being a \"braindead-microphone\".</p>",
+        "followers_count": 206,
+        "following_count": 93,
+        "followers": [
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 235,
+        "created_at": "2022-11-06 00:00:00",
+        "last_status_at": "2023-07-19 00:00:00",
+        "acct": "OpenEd@mastodon.bida.im",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.bida.im/@OpenEd"
+    },
+    {
+        "id": 109330825687197455,
+        "username": "tomstoneham",
+        "display_name": "Tom Stoneham",
+        "note": "<p>Academic philosopher at a UK university. </p><p>Likes: <a href=\"https://dair-community.social/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>, <a href=\"https://dair-community.social/tags/GrapheneOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GrapheneOS</span></a> and <a href=\"https://dair-community.social/tags/e2ee\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>e2ee</span></a></p><p>Cares about: <a href=\"https://dair-community.social/tags/DataPrivacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataPrivacy</span></a> and <a href=\"https://dair-community.social/tags/ProportionalRepresentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProportionalRepresentation</span></a></p><p>Learning: 🇩🇪 </p><p>Currently thinking about value alignment, data privacy and the digital divide. </p><p>Would like to ground ethical critique of tech in political consensus at local levels (as opposed to global approaches like human rights).</p>",
+        "followers_count": 196,
+        "following_count": 206,
+        "followers": [
+            108194468985028114
+        ],
+        "followings": [],
+        "statuses_count": 1170,
+        "created_at": "2022-11-07 00:00:00",
+        "last_status_at": "2023-09-18 00:00:00",
+        "acct": "tomstoneham@dair-community.social",
+        "bot": false,
+        "group": false,
+        "url": "https://dair-community.social/@tomstoneham"
+    },
+    {
+        "id": 110261879366449996,
+        "username": "radicalaipod",
+        "display_name": "The Radical AI Podcast",
+        "note": "<p>AI ethics and responsible tech podcast centering radical ideas in a world transformed by technology. Hosted by Dylan T. Doyle and Jessie J. Smith 🎙🎧</p><p>www.radicalai.org</p>",
+        "followers_count": 174,
+        "following_count": 21,
+        "followers": [
+            109243295678325961,
+            109903883411299615,
+            452687
+        ],
+        "followings": [],
+        "statuses_count": 2,
+        "created_at": "2023-04-11 00:00:00",
+        "last_status_at": "2023-08-21 00:00:00",
+        "acct": "radicalaipod@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@radicalaipod"
+    },
+    {
+        "id": 109308758520538091,
+        "username": "asiabiega",
+        "display_name": "Asia Biega",
+        "note": "<p>Faculty at the Max Planck Institute for Security and Privacy.  Computer scientist researching data governance&amp;ethics, digital well-being, and responsible computing (IR/ML/AI).</p>",
+        "followers_count": 164,
+        "following_count": 120,
+        "followers": [
+            109248142320449852
+        ],
+        "followings": [],
+        "statuses_count": 14,
+        "created_at": "2022-11-07 00:00:00",
+        "last_status_at": "2023-09-19 00:00:00",
+        "acct": "asiabiega@fediscience.org",
+        "bot": false,
+        "group": false,
+        "url": "https://fediscience.org/@asiabiega"
+    },
+    {
+        "id": 109264490322355185,
+        "username": "danvieira",
+        "display_name": "Dan Vieira",
+        "note": "<p>Citizen. Proudly serving the community I love. Overviews = Personal. Fire. Smoke. Mirrors. Reflection. Play. Location: Gentler Toronto Area. <a href=\"https://mstdn.social/tags/humanrights\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>humanrights</span></a> <a href=\"https://mstdn.social/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> <a href=\"https://mstdn.social/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://mstdn.social/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a> <a href=\"https://mstdn.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://mstdn.social/tags/cognition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cognition</span></a> <a href=\"https://mstdn.social/tags/psychology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>psychology</span></a> <a href=\"https://mstdn.social/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a> <a href=\"https://mstdn.social/tags/cosmology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cosmology</span></a> <a href=\"https://mstdn.social/tags/labour\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>labour</span></a> <a href=\"https://mstdn.social/tags/econ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>econ</span></a> <a href=\"https://mstdn.social/tags/disinformation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>disinformation</span></a> <a href=\"https://mstdn.social/tags/medialiteracy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>medialiteracy</span></a> <a href=\"https://mstdn.social/tags/fire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fire</span></a> <a href=\"https://mstdn.social/tags/jokes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jokes</span></a></p>",
+        "followers_count": 157,
+        "following_count": 264,
+        "followers": [
+            982771
+        ],
+        "followings": [],
+        "statuses_count": 1509,
+        "created_at": "2022-10-29 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "danvieira@mstdn.social",
+        "bot": false,
+        "group": false,
+        "url": "https://mstdn.social/@danvieira"
+    },
+    {
+        "id": 109330706862887367,
+        "username": "jms_wright",
+        "display_name": "James Wright",
+        "note": "<p>Anthropologist/STS researcher working on intercultural AI ethics, care robots, and Japan. Own views</p>",
+        "followers_count": 142,
+        "following_count": 158,
+        "followers": [
+            109247805320099680
+        ],
+        "followings": [],
+        "statuses_count": 2,
+        "created_at": "2022-11-05 00:00:00",
+        "last_status_at": "2023-03-26 00:00:00",
+        "acct": "jms_wright@mstdn.social",
+        "bot": false,
+        "group": false,
+        "url": "https://mstdn.social/@jms_wright"
+    },
+    {
+        "id": 109344817683316703,
+        "username": "aleenacodes",
+        "display_name": "Aleena",
+        "note": "<p>Senior software engineer, working in health-tech in London 👩🏽‍💻 Also studying for a master's in AI, Ethics and Society at Cambridge University 📚</p><p>Exploring bias in tech, anti-capitalism, and why things like AI and blockchain are overhyped 💸</p><p>You can't be what you can't see, so I love to share some of my life online and talk about <a href=\"https://front-end.social/tags/womenintech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>womenintech</span></a> as well as other stuff around tech things that interest me (mainly <a href=\"https://front-end.social/tags/frontend\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>frontend</span></a> things), and how we can use tech for good <a href=\"https://front-end.social/tags/aiethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiethics</span></a> <a href=\"https://front-end.social/tags/techethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>techethics</span></a></p>",
+        "followers_count": 120,
+        "following_count": 243,
+        "followers": [
+            109243295678325961
+        ],
+        "followings": [],
+        "statuses_count": 39,
+        "created_at": "2022-11-14 00:00:00",
+        "last_status_at": "2023-05-14 00:00:00",
+        "acct": "aleenacodes@front-end.social",
+        "bot": false,
+        "group": false,
+        "url": "https://front-end.social/@aleenacodes"
+    },
+    {
+        "id": 109546577068692939,
+        "username": "ens",
+        "display_name": "European New School",
+        "note": "<p>interdisciplinary teaching &amp; research institute @ European University Viadrina Frankfurt (Oder)</p><p><a href=\"https://sciences.social/tags/digitalstudies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalstudies</span></a> <br><a href=\"https://sciences.social/tags/digitaltransformation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitaltransformation</span></a> <br><a href=\"https://sciences.social/tags/digitalentrepreneurship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalentrepreneurship</span></a></p><p>www.europeannewschool.eu</p>",
+        "followers_count": 95,
+        "following_count": 131,
+        "followers": [
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 70,
+        "created_at": "2022-12-20 00:00:00",
+        "last_status_at": "2023-09-06 00:00:00",
+        "acct": "ens@sciences.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sciences.social/@ens"
+    },
+    {
+        "id": 109370972899325309,
+        "username": "emmiehine",
+        "display_name": "Emmie Hine",
+        "note": "<p>Tech ethics &amp; AI governance researcher<br>Ex-software engineer, current Law, Science, and Technology PhD student @Unibo</p>",
+        "followers_count": 90,
+        "following_count": 96,
+        "followers": [
+            110683138029388912
+        ],
+        "followings": [],
+        "statuses_count": 159,
+        "created_at": "2022-11-06 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "emmiehine@dair-community.social",
+        "bot": false,
+        "group": false,
+        "url": "https://dair-community.social/@emmiehine"
+    },
+    {
+        "id": 109411528466513272,
+        "username": "octavia_reeve",
+        "display_name": "Octavia Reeve",
+        "note": "<p>Research interests: Tech workers, AI &amp; data ethics, research methods, design &amp; impact</p><p>Late developer / early-career researcher </p><p>Associate Director, Ada Lovelace Institute, London</p><p>Vegan, dog-loving peace campaigner</p>",
+        "followers_count": 82,
+        "following_count": 131,
+        "followers": [
+            109242494137478793,
+            108225684829323574
+        ],
+        "followings": [],
+        "statuses_count": 12,
+        "created_at": "2022-11-26 00:00:00",
+        "last_status_at": "2023-09-15 00:00:00",
+        "acct": "octavia_reeve",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@octavia_reeve"
+    },
+    {
+        "id": 109387717021617090,
+        "username": "BondiElizabeth",
+        "display_name": "Elizabeth Bondi-Kelly",
+        "note": "<p>Incoming Assistant Professor at University of Michigan CSE (Fall 23). Postdoc at MIT CSAIL. Harvard PhD. Founder of Try AI. Research in <a href=\"https://masto.ai/tags/AIforSocialImpact\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIforSocialImpact</span></a>.</p>",
+        "followers_count": 75,
+        "following_count": 77,
+        "followers": [
+            109248614317108614
+        ],
+        "followings": [],
+        "statuses_count": 5,
+        "created_at": "2022-11-22 00:00:00",
+        "last_status_at": "2023-04-25 00:00:00",
+        "acct": "BondiElizabeth@masto.ai",
+        "bot": false,
+        "group": false,
+        "url": "https://masto.ai/@BondiElizabeth"
+    },
+    {
+        "id": 109293576053916427,
+        "username": "eric",
+        "display_name": "Eric Maugendre",
+        "note": "<p>Facilitation, ethics by design, AI risks, explainability, searchable governance.<br>This account is a tribute to Mary P. Follett: <a href=\"https://social.coop/@eric/tagged/Follett\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">social.coop/@eric/tagged/Folle</span><span class=\"invisible\">tt</span></a></p>",
+        "followers_count": 72,
+        "following_count": 73,
+        "followers": [],
+        "followings": [
+            109242494137478793,
+            109241297218361083
+        ],
+        "statuses_count": 494,
+        "created_at": "2022-11-05 00:00:00",
+        "last_status_at": "2023-09-13 00:00:00",
+        "acct": "eric@social.coop",
+        "bot": false,
+        "group": false,
+        "url": "https://social.coop/@eric"
+    },
+    {
+        "id": 107597805536855223,
+        "username": "zvrt",
+        "display_name": "Piotr Walicki 📸 🦅",
+        "note": "<p>Old Highlander in exile to flatlands. 🇵🇱🤝🇺🇦 I play bass (guitar and upright). I prefer birds from humans. All photos I post are my own except boosts. Glad to discuss design ethics and ethics of artificial intelligence.The posters of „AI art” are getting silenced. There is no art without an artist.Team <a href=\"https://mastodon.social/tags/nature\" class=\"mention hashtag\" rel=\"tag\">#<span>nature</span></a>, <a href=\"https://mastodon.social/tags/birdwatching\" class=\"mention hashtag\" rel=\"tag\">#<span>birdwatching</span></a> &amp; <a href=\"https://mastodon.social/tags/pierogi\" class=\"mention hashtag\" rel=\"tag\">#<span>pierogi</span></a></p>",
+        "followers_count": 61,
+        "following_count": 93,
+        "followers": [],
+        "followings": [
+            109352646734786487
+        ],
+        "statuses_count": 237,
+        "created_at": "2022-01-10 00:00:00",
+        "last_status_at": "2023-09-10 00:00:00",
+        "acct": "zvrt",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@zvrt"
+    },
+    {
+        "id": 108194282025075046,
+        "username": "emanuelmoss",
+        "display_name": "Emanuel Moss",
+        "note": "<p>Emanuel Moss conducts ethnographic research on issues of ethics, fairness, and accountability in AI systems. He is a Joint Postdoctoral Researcher for the AI on the Ground Initiative (AIGI) at Data &amp; Society and the Digital Life Initiative at Cornell Tech. His doctoral work produced an ethnography of machine learning investigating the role of data scientists as producers of knowledge. He is particularly interested in how data science, machine learning, and artificial intelligence are shaped by o</p>",
+        "followers_count": 58,
+        "following_count": 28,
+        "followers": [
+            109280935474675728,
+            109207599306718945,
+            109247805320099680,
+            109288395066962197
+        ],
+        "followings": [],
+        "statuses_count": 0,
+        "created_at": "2022-04-25 00:00:00",
+        "last_status_at": null,
+        "acct": "emanuelmoss",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@emanuelmoss"
+    },
+    {
+        "id": 128967,
+        "username": "EugeneTeplitsky",
+        "display_name": "Eugene Teplitsky",
+        "note": "<p>🧙‍♂️ CTO &amp; Co-Founder @ WishKnish<br />💻 Architect of the Knish.IO Distributed Ledger<br />🤖 Ethical AI Evangelist and Honorary Human<br />🎮 Multimodal Gamer Dad</p>",
+        "followers_count": 56,
+        "following_count": 184,
+        "followers": [],
+        "followings": [
+            109316369882344381
+        ],
+        "statuses_count": 227,
+        "created_at": "2017-05-06 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "EugeneTeplitsky",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@EugeneTeplitsky"
+    },
+    {
+        "id": 109244166623886892,
+        "username": "tomorrowsAI",
+        "display_name": "Beth Carey",
+        "note": "<p>co-founder of machine intelligence company Pat Inc - creators of machine readable meaning for the world&#39;s languages</p>",
+        "followers_count": 51,
+        "following_count": 9,
+        "followers": [
+            109545103844083490,
+            109370483427438363
+        ],
+        "followings": [],
+        "statuses_count": 192,
+        "created_at": "2022-10-28 00:00:00",
+        "last_status_at": "2023-02-14 00:00:00",
+        "acct": "tomorrowsAI",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@tomorrowsAI"
+    },
+    {
+        "id": 109296598505676703,
+        "username": "triciagriffin",
+        "display_name": "Tricia Griffin",
+        "note": "<p>PhD Candidate in AI Ethics at Maastricht University. Chief Ethicist at ACEER Foundation. I am interested in how people from diverse backgrounds come together to make good decisions. MPH, M.Bioethics, MFA.</p>",
+        "followers_count": 50,
+        "following_count": 27,
+        "followers": [
+            109242494137478793,
+            108140462489609682
+        ],
+        "followings": [],
+        "statuses_count": 12,
+        "created_at": "2022-11-06 00:00:00",
+        "last_status_at": "2023-01-10 00:00:00",
+        "acct": "triciagriffin@hci.social",
+        "bot": false,
+        "group": false,
+        "url": "https://hci.social/@triciagriffin"
+    },
+    {
+        "id": 110909873843092031,
+        "username": "ohmyshambles",
+        "display_name": "Laurence Dierickx",
+        "note": "<p>PhD <a href=\"https://mastodon.social/tags/newsautomation\" class=\"mention hashtag\" rel=\"tag\">#<span>newsautomation</span></a> Intermittent researcher at the University of Bergen (Norway) <a href=\"https://mastodon.social/tags/factchecking\" class=\"mention hashtag\" rel=\"tag\">#<span>factchecking</span></a> (NORDIS), ReSIC scientific collaborator, LaPIJ member, teacher in data journalism (Université Libre de Bruxelles). Interest in <a href=\"https://mastodon.social/tags/data\" class=\"mention hashtag\" rel=\"tag\">#<span>data</span></a> <a href=\"https://mastodon.social/tags/dataquality\" class=\"mention hashtag\" rel=\"tag\">#<span>dataquality</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"tag\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/journalism\" class=\"mention hashtag\" rel=\"tag\">#<span>journalism</span></a> <a href=\"https://mastodon.social/tags/DDJ\" class=\"mention hashtag\" rel=\"tag\">#<span>DDJ</span></a> <a href=\"https://mastodon.social/tags/ML\" class=\"mention hashtag\" rel=\"tag\">#<span>ML</span></a> <a href=\"https://mastodon.social/tags/ethics\" class=\"mention hashtag\" rel=\"tag\">#<span>ethics</span></a> <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"tag\">#<span>RStats</span></a> <a href=\"https://mastodon.social/tags/UX\" class=\"mention hashtag\" rel=\"tag\">#<span>UX</span></a> etc.</p>",
+        "followers_count": 48,
+        "following_count": 220,
+        "followers": [
+            110784850806725810
+        ],
+        "followings": [
+            110784850806725810,
+            109387687925767924,
+            109362220217892895
+        ],
+        "statuses_count": 54,
+        "created_at": "2023-08-18 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "ohmyshambles",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@ohmyshambles"
+    },
+    {
+        "id": 109370483427438363,
+        "username": "wcrpaul",
+        "display_name": "wcrpaul",
+        "note": "<p>Builds &amp; reactivates <a href=\"https://maly.io/tags/Robots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Robots</span></a>🤖... <br><a href=\"https://maly.io/tags/Retrocomputers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Retrocomputers</span></a>⌨🖱...<br><a href=\"https://maly.io/tags/ModelRailways\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ModelRailways</span></a>🚂.   <br>Unpaid <a href=\"https://maly.io/tags/Carer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Carer</span></a> for two.</p><p><a href=\"https://maly.io/tags/ArtificialIntelligence\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArtificialIntelligence</span></a> <a href=\"https://maly.io/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> especially moral, ethical, and legal themes.</p>",
+        "followers_count": 39,
+        "following_count": 78,
+        "followers": [],
+        "followings": [
+            109244166623886892
+        ],
+        "statuses_count": 43,
+        "created_at": "2022-11-18 00:00:00",
+        "last_status_at": "2023-09-12 00:00:00",
+        "acct": "wcrpaul@maly.io",
+        "bot": false,
+        "group": false,
+        "url": "https://maly.io/@wcrpaul"
+    },
+    {
+        "id": 109559804558275501,
+        "username": "WomeninAIethics",
+        "display_name": "WomeninAIethics",
+        "note": "<p>The Women in AI Ethics™ (WAIE) was established to increase recognition, representation, and empowerment of brilliant women in this space working hard to save humanity from the dark side of AI.<br>As an approved account, we agreed to the Specialized Account Expectations at  <a href=\"https://community.hachyderm.io/docs/account-types/covenant/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">community.hachyderm.io/docs/ac</span><span class=\"invisible\">count-types/covenant/</span></a></p>",
+        "followers_count": 38,
+        "following_count": 10,
+        "followers": [
+            110766811677899168,
+            109243295678325961
+        ],
+        "followings": [],
+        "statuses_count": 63,
+        "created_at": "2022-12-22 00:00:00",
+        "last_status_at": "2023-09-09 00:00:00",
+        "acct": "WomeninAIethics@hachyderm.io",
+        "bot": false,
+        "group": false,
+        "url": "https://hachyderm.io/@WomeninAIethics"
+    },
+    {
+        "id": 304979,
+        "username": "robmakesthings",
+        "display_name": "Rob Collins",
+        "note": "<p>PhD Researcher / Agonistic Design /Designing For Contestability/ Prototyping Agonistic Spaces For Human-Algorithm Interaction &amp; Repair <br />@UmeaDesign<br /><a href=\"https://mastodon.social/tags/MSCA\" class=\"mention hashtag\" rel=\"tag\">#<span>MSCA</span></a> <br />@Dcode_EU</p>",
+        "followers_count": 37,
+        "following_count": 134,
+        "followers": [],
+        "followings": [
+            109280935474675728
+        ],
+        "statuses_count": 6,
+        "created_at": "2018-03-24 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "robmakesthings",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@robmakesthings"
+    },
+    {
+        "id": 110784850806725810,
+        "username": "nicolasgalland",
+        "display_name": "Nicolas Galland",
+        "note": "<p><span>Fediverse and digital social innovations explorer <br><br>Optimisitic. Believe that good ideas circulating in good social medias could change the </span><a href=\"https://firefish.social/tags/society\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#society</a><span> <br><br>Data analyst IRL<br><br>Live in Cergy-Pontoise (France), a charming city filled with diverse, smiling and </span><a href=\"https://firefish.social/tags/utopist\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#utopist</a><span> inhabitants.<br><br></span><a href=\"https://firefish.social/tags/solarpunk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#solarpunk</a><span> </span><a href=\"https://firefish.social/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#fediverse</a><span> </span><a href=\"https://firefish.social/tags/society\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#society</a><span> </span><a href=\"https://firefish.social/tags/socialmedia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#socialmedia</a><span><br><br>----<br><br>Fasciné par le </span><a href=\"https://firefish.social/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#fediverse</a><span>, l'internet fédéré sous toutes ses formes, l'impact des réseaux sociaux sur la fabrique du lien social, les innovations sociales et les communautés d'entraide en ligne.<br><br>Je travaille sur sur tout un tas de projets qui n'aboutissent jamais autour de ces sujets :)<br><br>Dans la vie je suis data analyst pour des médias et des startups. J'ai un compte masto séparé pour les sujets data : </span><a href=\"https://firefish.social/@ladataditquoi@piaille.fr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@ladataditquoi@piaille.fr</a></p>",
+        "followers_count": 36,
+        "following_count": 101,
+        "followers": [
+            110909873843092031
+        ],
+        "followings": [
+            110909873843092031
+        ],
+        "statuses_count": 88,
+        "created_at": "2023-07-27 00:00:00",
+        "last_status_at": "2023-09-20 00:00:00",
+        "acct": "nicolasgalland@firefish.social",
+        "bot": false,
+        "group": false,
+        "url": "https://firefish.social/@nicolasgalland"
+    },
+    {
+        "id": 109433176222763295,
+        "username": "scarter",
+        "display_name": "Sarah E. Carter",
+        "note": "<p>Scientist-Ethicist // Musician // Vegan // Pragmatic Buddhist // Aspiring Yogi // PhD Worker Rights Advocate </p><p>Currently a PhD candidate at the University of Galway, interested in privacy, data ethics, and AI ethics</p>",
+        "followers_count": 34,
+        "following_count": 66,
+        "followers": [
+            109242494137478793
+        ],
+        "followings": [],
+        "statuses_count": 45,
+        "created_at": "2022-11-30 00:00:00",
+        "last_status_at": "2023-07-24 00:00:00",
+        "acct": "scarter@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@scarter"
+    },
+    {
+        "id": 109306350244299713,
+        "username": "AJFish",
+        "display_name": "A.J. Fish",
+        "note": "<p>I'm a programmer-journalist-programmer. My other Mastadon account is <a href=\"https://mstdn.social/@tracingcovid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mstdn.social/@tracingcovid</span><span class=\"invisible\"></span></a>. My newsletter traces agenda-driven misinformation back to the source: TracingCOVID.substack.com.</p>",
+        "followers_count": 33,
+        "following_count": 72,
+        "followers": [],
+        "followings": [
+            109207667010852890
+        ],
+        "statuses_count": 299,
+        "created_at": "2022-11-07 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "AJFish@indieweb.social",
+        "bot": false,
+        "group": false,
+        "url": "https://indieweb.social/@AJFish"
+    },
+    {
+        "id": 109545103844083490,
+        "username": "animasuri",
+        "display_name": "Jan Hauters (animasuri)",
+        "note": "<p>Postgrad Researcher in K-12 “AI” literacy &amp; ethics @ University College London's Institute Of Education | Edu Research @ 4Dclass, in Beijing | uneducated poet</p>",
+        "followers_count": 30,
+        "following_count": 505,
+        "followers": [],
+        "followings": [
+            109244166623886892
+        ],
+        "statuses_count": 83,
+        "created_at": "2022-12-20 00:00:00",
+        "last_status_at": "2023-09-18 00:00:00",
+        "acct": "animasuri@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@animasuri"
+    },
+    {
+        "id": 109365305787355280,
+        "username": "davelewis",
+        "display_name": "Dave Lewis",
+        "note": "<p>Computer scientist. IR / ML / NLP / statistics / AI ethics / legal technology.  He / him.</p>",
+        "followers_count": 28,
+        "following_count": 5,
+        "followers": [
+            109248142320449852
+        ],
+        "followings": [],
+        "statuses_count": 0,
+        "created_at": "2022-11-18 00:00:00",
+        "last_status_at": null,
+        "acct": "davelewis@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@davelewis"
+    },
+    {
+        "id": 109903883411299615,
+        "username": "mominmalik",
+        "display_name": "Momin M. Malik",
+        "note": "<p>Senior Data Science Analyst – AI Ethics [&quot;AI&quot; &quot;Ethics&quot;] at the Mayo Clinic; instructor at UPenn; fellow at <a href=\"https://www.icqcm.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">icqcm.org</span><span class=\"invisible\"></span></a>. Critical quantitative methods &amp; critical data science, social statistics, network models.</p>",
+        "followers_count": 27,
+        "following_count": 96,
+        "followers": [
+            109243587005183609
+        ],
+        "followings": [
+            109243587005183609,
+            110261879366449996
+        ],
+        "statuses_count": 44,
+        "created_at": "2023-02-21 00:00:00",
+        "last_status_at": "2023-09-05 00:00:00",
+        "acct": "mominmalik",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@mominmalik"
+    },
+    {
+        "id": 108191699650446781,
+        "username": "interacciones",
+        "display_name": "interacciones",
+        "note": "<p>Philosophy of technology. AI ethics. Book: &#39;The Goods of Design: Professional Ethics for Designers&#39; <a href=\"http://amzn.to/3fkGlHX\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">amzn.to/3fkGlHX</span><span class=\"invisible\"></span></a> Lecturer at Elisava Barcelona School for Design and Engineering. Kvetches in Spanish. — Not yet really migrated from <a href=\"https://twitter.com/interacciones\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/interacciones</span><span class=\"invisible\"></span></a> — Watching twitter implode.</p>",
+        "followers_count": 27,
+        "following_count": 26,
+        "followers": [
+            109242494137478793,
+            109320504378979581,
+            108225684829323574
+        ],
+        "followings": [],
+        "statuses_count": 0,
+        "created_at": "2022-04-25 00:00:00",
+        "last_status_at": "2022-10-31 00:00:00",
+        "acct": "interacciones",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@interacciones"
+    },
+    {
+        "id": 109290928073880133,
+        "username": "atomax",
+        "display_name": "André Meyer-Vitali",
+        "note": "<p>Computer Scientist and Photographer // Art &amp; Science @DFKI<br><a href=\"https://sigmoid.social/tags/jazz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>jazz</span></a> <a href=\"https://sigmoid.social/tags/architecture\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>architecture</span></a> <a href=\"https://sigmoid.social/tags/city\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>city</span></a> <a href=\"https://sigmoid.social/tags/urbanism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>urbanism</span></a> <a href=\"https://sigmoid.social/tags/philosophy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>philosophy</span></a> <a href=\"https://sigmoid.social/tags/intentions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>intentions</span></a> <a href=\"https://sigmoid.social/tags/trust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>trust</span></a> <a href=\"https://sigmoid.social/tags/trustworthy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>trustworthy</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/agents\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>agents</span></a> <a href=\"https://sigmoid.social/tags/knowledge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knowledge</span></a> <a href=\"https://sigmoid.social/tags/semantics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semantics</span></a> <a href=\"https://sigmoid.social/tags/causality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>causality</span></a> <a href=\"https://sigmoid.social/tags/ethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethics</span></a></p>",
+        "followers_count": 21,
+        "following_count": 108,
+        "followers": [],
+        "followings": [
+            109362220217892895
+        ],
+        "statuses_count": 6,
+        "created_at": "2022-11-04 00:00:00",
+        "last_status_at": "2023-08-07 00:00:00",
+        "acct": "atomax@sigmoid.social",
+        "bot": false,
+        "group": false,
+        "url": "https://sigmoid.social/@atomax"
+    },
+    {
+        "id": 110476181839630923,
+        "username": "andrewconn",
+        "display_name": "Andrew Conn",
+        "note": "<p>Senior Director of User Experience for Artificial Intelligence at Salesforce. Former advisor to White House Presidential Innovation Fellows and Gates Foundation. Advocate for data privacy, ethical technology, democracy, and our planet.</p>",
+        "followers_count": 18,
+        "following_count": 214,
+        "followers": [],
+        "followings": [
+            109268837176825401
+        ],
+        "statuses_count": 75,
+        "created_at": "2023-06-02 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "andrewconn",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@andrewconn"
+    },
+    {
+        "id": 109852092615532345,
+        "username": "mamboox",
+        "display_name": "Jan",
+        "note": "<p>Passionate about: IT &amp; OT Security, Risk Management, AI, Ethics, Sailing, Travelling around and making pictures. Opinions are my own.</p>",
+        "followers_count": 18,
+        "following_count": 121,
+        "followers": [
+            110103218157729413
+        ],
+        "followings": [],
+        "statuses_count": 3,
+        "created_at": "2023-02-12 00:00:00",
+        "last_status_at": "2023-06-02 00:00:00",
+        "acct": "mamboox",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@mamboox"
+    },
+    {
+        "id": 110766811677899168,
+        "username": "vishalbakshi",
+        "display_name": "Vishal Bakshi",
+        "note": "<p>Data Science, Machine Learning and AI Ethics.</p>",
+        "followers_count": 15,
+        "following_count": 173,
+        "followers": [],
+        "followings": [
+            109242494137478793,
+            109248142320449852,
+            109559804558275501,
+            109288539216246486
+        ],
+        "statuses_count": 42,
+        "created_at": "2023-07-24 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "vishalbakshi",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@vishalbakshi"
+    },
+    {
+        "id": 109256047123017729,
+        "username": "claritahall",
+        "display_name": "claritahall",
+        "note": "<p>Lawyer. Want to read about economic justice, ESC rights, digital gov and ethical AI/ML, philosophy globally, and admin law in the UK. Oh, and trains.</p>",
+        "followers_count": 9,
+        "following_count": 14,
+        "followers": [
+            109242494137478793
+        ],
+        "followings": [],
+        "statuses_count": 0,
+        "created_at": "2022-10-30 00:00:00",
+        "last_status_at": null,
+        "acct": "claritahall",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@claritahall"
+    },
+    {
+        "id": 110309354650536938,
+        "username": "Elyse_Sims",
+        "display_name": "Elyse",
+        "note": "<p>Head Marketing at Abzu · Scientific AI · Ethical AI · Explainable AI · The QLattice® · Open science · Cookieless marketing · Cross-fit · Gardening · Swearing</p>",
+        "followers_count": 7,
+        "following_count": 14,
+        "followers": [],
+        "followings": [
+            109268837176825401
+        ],
+        "statuses_count": 11,
+        "created_at": "2023-05-04 00:00:00",
+        "last_status_at": "2023-06-15 00:00:00",
+        "acct": "Elyse_Sims",
+        "bot": false,
+        "group": false,
+        "url": "https://mastodon.social/@Elyse_Sims"
+    },
+    {
+        "id": 109360246146275070,
+        "username": "pwaller99",
+        "display_name": "Paul Waller",
+        "note": "<p>Researching, writing and advising on AI and algorithms in the public sector and on regulation at www.thorneyisle.co.uk</p>",
+        "followers_count": 4,
+        "following_count": 18,
+        "followers": [
+            109297398294771412
+        ],
+        "followings": [],
+        "statuses_count": 12,
+        "created_at": "2022-11-17 00:00:00",
+        "last_status_at": "2023-09-21 00:00:00",
+        "acct": "pwaller99@vivaldi.net",
+        "bot": false,
+        "group": false,
+        "url": "https://social.vivaldi.net/@pwaller99"
+    }
+]

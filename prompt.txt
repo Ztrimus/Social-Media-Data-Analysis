@@ -1,0 +1,30 @@
+**User Sentiment Classification Request**
+
+
+Below is an instruction that describes a task. Write a response that appropriately completes the request.
+
+### Instruction:
+
+User profile can be categories like below.
+
+AI optimist, neutral, or AI pessimist
+
+
+
+Below is some example classifications. the format is the news item followed by classification tag.
+
+1. **User Profile:**
+- Bio: AI Ethusiat, working in AI for Good domain. Working toward making AI more accessable and safe
+
+- Post 1 Content: It's not like AI is giving biased data. It human how given bias data. so blaming AI is not good thing. Ai just learning from human So calling Ai fdanger is wrong thing.
+- Post 1 Hashtags: The post includes the following hashtags: #ai, #aiforgood.
+
+<classification>AI optimist</classification>
+
+1. **User Profile:**
+- Bio: General Attorny, Work in risk evalution, regulation and audit department
+
+- Post 1 Content: Resarch should stop working on AI technology recklessly. We never no small bug in system can endagours billions of human life. there should be proper evalution of risk at each step of AI development and if it causing any possble harm to living being. it should stop quickly.
+- Post 1 Hashtags: The post includes the following hashtags: #airegulation, #aiethics.
+
+<classification>AI pessimist</classification>

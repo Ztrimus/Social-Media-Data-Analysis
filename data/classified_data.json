@@ -57,9 +57,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 1143496,
@@ -86,9 +87,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109243139631965273,
@@ -136,10 +138,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109287481946236477,
@@ -164,10 +167,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
+            1,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109287529362430935,
@@ -193,9 +197,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109208442152198181,
@@ -236,10 +241,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 510714,
@@ -300,10 +306,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109286358919610438,
@@ -329,10 +336,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109286193685186529,
@@ -357,7 +365,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109283132557795300,
@@ -381,10 +390,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109537504134917132,
@@ -407,10 +417,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 249465,
@@ -461,10 +472,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109292791986066871,
@@ -489,7 +501,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109411084923969277,
@@ -516,7 +529,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108193750671115375,
@@ -540,9 +554,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109288539216246486,
@@ -565,10 +580,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109383445828616097,
@@ -630,10 +646,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 110140463417280023,
@@ -723,7 +740,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109326108278519434,
@@ -750,9 +768,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109207667010852890,
@@ -784,10 +803,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109860655675869429,
@@ -814,7 +834,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109280336428081350,
@@ -838,10 +859,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108245701221172049,
@@ -864,10 +886,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109362401574115942,
@@ -915,7 +938,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109287174049184786,
@@ -940,7 +964,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108199259247442009,
@@ -989,7 +1014,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108165223149021133,
@@ -1013,9 +1039,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 782304,
@@ -1059,10 +1086,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109272147605581700,
@@ -1098,7 +1126,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109299144809982298,
@@ -1124,10 +1153,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 110142049148273382,
@@ -1155,7 +1185,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109301984334577886,
@@ -1181,9 +1212,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109258148192820344,
@@ -1308,10 +1340,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 29846,
@@ -1358,10 +1391,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109311812936812766,
@@ -1388,7 +1422,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 89934,
@@ -1416,10 +1451,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 484383,
@@ -1446,9 +1482,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109260205229131105,
@@ -1504,7 +1541,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108236942530212395,
@@ -1545,10 +1583,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109388885609394551,
@@ -1570,10 +1609,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 57956,
@@ -1596,9 +1636,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 469045,
@@ -1621,9 +1662,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 110627608153263800,
@@ -1671,7 +1713,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109524178826325282,
@@ -1694,10 +1737,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 107192220324249637,
@@ -1805,9 +1849,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108195594302751162,
@@ -1830,10 +1875,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108274329029934752,
@@ -1856,9 +1902,10 @@
         "group": true,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109310786303722957,
@@ -1881,10 +1928,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109263626041731644,
@@ -1976,7 +2024,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 7298,
@@ -2011,10 +2060,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 26316,
@@ -2075,7 +2125,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 1284985,
@@ -2113,10 +2164,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 498969,
@@ -2181,10 +2233,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109303368844035613,
@@ -2206,10 +2259,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 40435,
@@ -2244,10 +2298,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109302115678933936,
@@ -2277,9 +2332,10 @@
         "group": false,
         "ai_sentiment": [
             0,
-            1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 110855038878987438,
@@ -2330,7 +2386,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109654694731556080,
@@ -2426,10 +2483,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
+            0,
             0
-        ]
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 109274823503973616,
@@ -2475,10 +2533,11 @@
         "bot": false,
         "group": false,
         "ai_sentiment": [
-            0,
             1,
-            0
-        ]
+            0,
+            1
+        ],
+        "is_sentiment_done": true
     },
     {
         "id": 108923172078325937,
@@ -17150,7 +17209,8 @@
             1,
             0
         ]
-    },{
+    },
+    {
         "id": 110764128889181737,
         "username": "craigbrownphd",
         "url": "https://mastodon.social/@craigbrownphd",

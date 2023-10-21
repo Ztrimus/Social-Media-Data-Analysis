@@ -159,9 +159,6 @@ def fill_follower_following_list(server: Mastodon, accounts: collections.default
         print(f"An exception occurred: {e}")
         print(traceback.format_exc())
 
-def post_content(server: Mastodon, id: int):
-    return server.status(id).content
-
 def get_remaining_paginated_data(server: Mastodon, previous_page: any, limit: int = config.DATA_LIMIT):
     try:
         data = []
